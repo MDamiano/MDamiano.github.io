@@ -56,11 +56,15 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 <br />Supervisors: Prof. Giovanni Peres and Dr. Giuseppina Micela.</p></li>
 </ul>
 
-<h2>Awards, Honors, and Fellowships</h2>
+<h2>Grants and Fellowships</h2>
 <ul class="skill-list">
 <li>Jet Propulsion Laboratory (JPL/Caltech) Postdoctoral Fellowship, November 2018.</li>
-<li><i>"Tessera Preziosa del mosaio di Palermo"</i>, Palermitan recognition for outstanding personalities (scientific in this case), September 2018.</li>
 <li>ERC-INAF PhD studentship, December 2015.</li>
+</ul>
+
+<h2>Awards and Honors</h2>
+<ul class="skill-list">
+<li><i>"Tessera Preziosa del mosaio di Palermo"</i>, Palermitan recognition for outstanding citizens, September 2018.</li>
 </ul>
 
 <h2>Skills</h2>

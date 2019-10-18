@@ -18,6 +18,10 @@ layout: page
 <h2>First author peer-reviewed articles</h2>
 
 <ul class="skill-list">
+    <!-- <li><strong>Damiano, M.</strong>, Hu, R.,
+	    <br /><i>"ExoReL<sup>R</sup>: ”</i>, 
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab22b2/pdf">ApJ, 878, 153</a>, Jun 2019.
+	    <br /><br /></li> -->
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,
 	    <br /><i>"A principal component analysis-based method to analyze high-resolution spectroscopic data on exoplanets”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab22b2/pdf">ApJ, 878, 153</a>, Jun 2019.

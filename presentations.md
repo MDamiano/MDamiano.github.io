@@ -57,10 +57,10 @@ layout: page
 <h2>Posters</h2>
 
 <ul class="skill-list">
-    <!--<li>JPL Postdoc Reseach day,
+    <li>JPL Postdoc Reseach day,
         <br /><i>"ExoReL: a new frontier for reflection spectroscopy"</i>
         <br />Pasadena, CA, United States. July 2019.
-        <br /><br /></li>-->
+        <br /><br /></li>
     <li>UK Exoplanet Community Meeting (UKEXOM2018), 
         <br /><i>"Near-IR transmission spectrum of HAT-P-32 b using HST / WFC3"</i>
         <br />Oxford, England, UK. March 2018.
