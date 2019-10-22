@@ -24,7 +24,7 @@ layout: page
 	    <br /><br /></li> -->
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,
 	    <br /><i>"A principal component analysis-based method to analyze high-resolution spectroscopic data on exoplanets”</i>, 
-	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab22b2/pdf">ApJ, 878, 153</a>, Jun 2019.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab22b2">ApJ, 878, 153</a>, Jun 2019.
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Morello, G., Tsiaras, A., Zingales, T., Tinetti, G., 
 	    <br /><i>“Near-IR transmission spectrum of HAT-P-32 b using HST/WFC3”</i>, 
