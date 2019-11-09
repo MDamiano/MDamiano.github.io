@@ -33,7 +33,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Division Planetary Science (DPS) 51 / European Planetary Science Congress (EPSC) 14, 
-	    <br /><i>"Exoplanet reflected light retrieval: what can we learn? "</i>
+	    <br /><i>"Exoplanet reflected light retrieval: what can we learn?"</i>
 	    <br />Geneva, Switzerland. September 2019.
 	    <br /><br /></li>
 	<li>Centre for Planetary Science (CPS) meeting, Mullard Space Science Laboratory (MSSL), 
