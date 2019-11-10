@@ -47,11 +47,11 @@ layout: page
 	    <br /><i>“A New Approach to Analyzing HST Spatial Scans: The Transmission Spectrum of HD 209458 b”</i>, 
 	    <br /><a href="https://doi.org/10.3847/0004-637X/832/2/202">ApJ, 832, 202</a>, Dec 2016.
 	    <br /><br /></li>
-	<li>Tinetti, G., ... <strong>Damiano, M.</strong>, ... et. al
+	<li>Tinetti, G., plus 242 co-authors,
 	    <br /><i>"A chemical survey of exoplanets with ARIEL"</i>,
 	    <br /><a href="https://dx.doi.org/10.1007/s10686-018-9598-x">Exp Astron 46, 135</a>, Sep 2018.
 	    <br /><br /></li>
-	<li>Bean, J. L., ... <strong>Damiano, M.</strong>, ... et. al
+	<li>Bean, J. L., plus 96 co-authors,
 	    <br /><i>"The Transiting Exoplanet Community Early Release Science Program for JWST,"</i>,
 	    <br /><a href="https://iopscience.iop.org/article/10.1088/1538-3873/aadbf3">PASP 130k4402</a>, Nov 2018.
 	    <br /><br /></li>
