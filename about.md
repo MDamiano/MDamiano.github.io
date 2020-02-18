@@ -13,11 +13,11 @@ layout: page
 
 
 <h2>About</h2>
-<p>Mario Damiano obtained his BSc in physics and MSc degree in astrophysics at the University of Palermo in Italy (UNIPA). Since then Mario has been studying the atmospheric characteristics of extrasolar planets.</p>
+<p>Mario Damiano obtained his BSc in physics and MSc degree in astrophysics at the University of Palermo in Italy (UNIPA). Since then, Mario has been studying the atmospheric characteristics of extrasolar planets.</p>
 
 <p>Mario received his Ph.D. at the University College London (UCL). During his Ph.D. he worked on the data analysis of low-resolution data taken from space (e.g. Hubble Space Telescope) and high-resolution data from ground facilities (e.g. Very Large Telescope). The Ph.D. was funded by the European Research Council (ERC) and the National Institute of Astrophysics (INAF).</p>
 
-<p>Since November 2018 he is a JPL postdoc fellow. Mario performs data analysis to study and interpret the spectroscopic characteristics of exoplanetary atmosphere to unveil atmospheric composition and dynamic of these alien worlds. In particular, he is working on the develpment of a Bayesian retrieval framework that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is studying the possibilities of implementing such powerful algorithms into his research.</p>
+<p>Since November 2018, he is a JPL postdoc fellow. Mario performs data analysis to study and interpret the spectroscopic characteristics of exoplanetary atmosphere to unveil atmospheric composition and dynamic of these alien worlds. In particular, he is working on the develpment of a Bayesian retrieval framework that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is studying the possibilities of implementing such powerful algorithms into his research.</p>
 
 <h2>Research interests</h2>
 <ul class="skill-list">
@@ -36,21 +36,21 @@ layout: page
 <h2>Education</h2>
 <ul class="skill-list">
 	<li><p>PhD in Astronomy 
-<br />December 2015 – November 2018
-<br />Department of Physics and Astronomy, University College London, UK.
+<br />December 2015 – January 2019
+<br />Department of Physics and Astronomy, University College London, United Kingdom.
 <br />Thesis title: <i>"From space to ground: planetary atmospheres revealed through a machine learning approach"</i>.
 <br />Subjects: Transit spectroscopy of exoplanets with the HST/WFC3 camera, data analysis, atmoshperic retrievals, 
 high-resolution spectral data analysis, machine learning, spectroscopy.
 <br />Supervisors: Prof. Giovanna Tinetti, Dr. Giuseppina Micela, and Dr. Ingo P. Waldmann.</p></li>
 	<li><p>MSc in Physics - Summa cum laude, grade A+
 <br />December 2013 – October 2015 
-<br />Department of Physics and Chemistry, University of Palermo, ITA.
+<br />Department of Physics and Chemistry, University of Palermo, Italy.
 <br />Thesis title: <i>"Exoplanetary atmospheres: simulation of high-resolution spectra for the iLocator and the HIRES instruments"</i>.
 <br />Subjects: Transit modelling, simulating high-resolution spectral observations, data analysis and atmospheric characterization. 
 <br />Supervisors: Prof. Giovanni Peres and Dr. Giuseppina Micela.</p></li>
     <li><p>BSc in Physics Science - 108/110, grade A
 <br />November 2010 – December 2013
-<br />Department of Physics and Chemistry, University of Palermo, ITA.
+<br />Department of Physics and Chemistry, University of Palermo, Italy.
 <br />Thesis title: <i>"Exoplanets and stellar activity in the IR band"</i>.
 <br />Subjects: Transit modelling, stellar activity, effects of stellar activity to the planetary transits. 
 <br />Supervisors: Prof. Giovanni Peres and Dr. Giuseppina Micela.</p></li>

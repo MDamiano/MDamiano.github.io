@@ -25,7 +25,7 @@ layout: page
 <ul class="skill-list">
 	<li>University College London (UCL), “Workshop for cooperation with Indian Astrophysics Community”,
 	    <br /><i>"Planetary signal extraction via high-resolution spectroscopy"</i> 
-	    <br />London, England, UK. May 2018.
+	    <br />London, England, United Kingdom. May 2018.
 	    <br /><br /></li>
 </ul>
 
@@ -46,7 +46,7 @@ layout: page
 	    <br /><br /></li>
 	<li>Centre for Planetary Science (CPS) meeting, Mullard Space Science Laboratory (MSSL), 
 	    <br /><i>"Planetary signal extraction via high resolution spectroscopy"</i>
-	    <br />England, UK. June 2018.
+	    <br />England, United Kingdom. June 2018.
 	    <br /><br /></li>
 	<li>European Planetary Science Congress (EPSC) 12, 
 	    <br /><i>"Near IR transmission spectrum of HAT-P-32b using WFC3 camera on board HST"</i>
@@ -71,14 +71,14 @@ layout: page
         <br /><br /></li>
     <li>UK Exoplanet Community Meeting (UKEXOM2018), 
         <br /><i>"Near-IR transmission spectrum of HAT-P-32 b using HST / WFC3"</i>
-        <br />Oxford, England, UK. March 2018.
+        <br />Oxford, England, United Kingdom. March 2018.
         <br /><br /></li>
     <li>UK Exoplanet Community Meeting (UKEXOM2017), 
         <br /><i>"Near-IR transmission spectrum of HAT-P-32 b using HST / WFC3"</i>
-        <br />St. Andrews, Scotland, UK. March 2017.
+        <br />St. Andrews, Scotland, United Kingdom. March 2017.
         <br /><br /></li>
-    <li>Ariel meeting, 
+    <li>Ariel meeting,
+        <br /><i>"Near-IR transmission spectrum of HAT-P-32 b using HST / WFC3"</i> 
         <br />Brussels, Belgium. November 2016.
-        <br /><i>"Near-IR transmission spectrum of HAT-P-32 b using HST / WFC3"</i>
         <br /><br /></li>
 </ul>
