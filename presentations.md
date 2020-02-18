@@ -32,6 +32,14 @@ layout: page
 <h2>Oral presentations</h2>
 
 <ul class="skill-list">
+    <li>2<sup>nd</sup> Starshade Science Industry Partnership (SIP) forum, 
+	    <br /><i>"Exoplanetary characterization through reflection spectroscopy"</i>
+	    <br />Boulder, CO, United States. February 2020.
+	    <br /><br /></li>
+    <li>235<sup>th</sup> American Astronomical Society (AAS) meeting, 
+	    <br /><i>"Exoplanetary characterization through reflection spectroscopy"</i>
+	    <br />Honolulu, HI, United States. January 2020.
+	    <br /><br /></li>
 	<li>Division Planetary Science (DPS) 51 / European Planetary Science Congress (EPSC) 14, 
 	    <br /><i>"Exoplanet reflected light retrieval: what can we learn?"</i>
 	    <br />Geneva, Switzerland. September 2019.
@@ -44,7 +52,7 @@ layout: page
 	    <br /><i>"Near IR transmission spectrum of HAT-P-32b using WFC3 camera on board HST"</i>
 	    <br />Riga, Latvia. September 2017.
 	    <br /><br /></li>
-	<li>10th GAPS2.0 meeting, 
+	<li>10<sup>th</sup> GAPS2.0 meeting, 
 	    <br /><i>"Planetary signal extraction via high-resolution spectroscopy: work in progress"</i>
 	    <br />Palermo, Italy. May 2017.
 	    <br /><br /></li>
