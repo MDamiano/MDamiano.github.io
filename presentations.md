@@ -8,11 +8,11 @@ layout: page
 <ul class="skill-list">
 	<li>Yuk luncheon seminar, California Institute of Technology,
 	    <br /><i>"Two Lenses for Glasses: Low- and High-resolution Spectroscopic Observations of Exoplanetary Atmospheres"</i> 
-	    <br />CA, United States. April 2019.
+	    <br />Pasadena, CA, United States. April 2019.
 	    <br /><br /></li>
 	<li>JPL luncheon seminar, Jet Propulsion Laboratory,
 	    <br /><i>"Two Lenses for Glasses: Low- and High-resolution Spectroscopic Observations of Exoplanetary Atmospheres"</i> 
-	    <br />CA, United States. February 2019.
+	    <br />Pasadena, CA, United States. February 2019.
 	    <br /><br /></li>
 	<li>INAF-Astronomical Observatory Palermo (INAF-OAPa),
 	    <br /><i>"Spectroscopic observations of Hot-Jupiters with the Hubble WFC3 camera"</i>
@@ -24,7 +24,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>University College London (UCL), “Workshop for cooperation with Indian Astrophysics Community”,
-	    <br /><i>"Planetary signal extraction via high resolution spectroscopy"</i> 
+	    <br /><i>"Planetary signal extraction via high-resolution spectroscopy"</i> 
 	    <br />London, England, UK. May 2018.
 	    <br /><br /></li>
 </ul>
