@@ -15,9 +15,9 @@ layout: page
 <h2>About</h2>
 <p>Mario Damiano obtained his BSc in physics and MSc degree in astrophysics at the University of Palermo in Italy (UNIPA). Since then, Mario has been studying the atmospheric characteristics of extrasolar planets.</p>
 
-<p>Mario received his Ph.D. at the University College London (UCL). During his Ph.D. he worked on the data analysis of low-resolution data taken from space (e.g. Hubble Space Telescope) and high-resolution data from ground facilities (e.g. Very Large Telescope). The Ph.D. was funded by the European Research Council (ERC) and the National Institute of Astrophysics (INAF).</p>
+<p>Mario received his Ph.D. at the University College London (UCL). During his Ph.D. he worked on the analysis of data taken from space satellites (e.g., Hubble Space Telescope) and ground facilities (e.g., Very Large Telescope). The Ph.D. was funded by the European Research Council (ERC) and the National Institute of Astrophysics (INAF).</p>
 
-<p>Since November 2018, he is a JPL postdoc fellow. Mario performs data analysis to study and interpret the spectroscopic characteristics of exoplanetary atmosphere to unveil atmospheric composition and dynamic of these alien worlds. In particular, he is working on the develpment of a Bayesian retrieval framework that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is studying the possibilities of implementing such powerful algorithms into his research.</p>
+<p>Since November 2018, he is a JPL postdoc fellow. Mario performs data analysis to study and interpret the spectroscopic characteristics of exoplanetary atmospheres to unveil atmospheric composition and dynamics of these alien worlds. In particular, he is working on the development of a Bayesian retrieval framework that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is studying the possibilities of implementing such powerful algorithms into his research.</p>
 
 <h2>Research interests</h2>
 <ul class="skill-list">
