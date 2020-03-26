@@ -19,7 +19,7 @@ layout: page
 
 <ul class="skill-list">
     <li><strong>Damiano, M.</strong>, Hu, R.,
-	    <br /><i>"ExoReL<sup>&‌#8476</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra</i>, 
+	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra</i>, 
 	    <br /><a href="https://arxiv.org/abs/2003.01814">arXiv:2003.01814</a>, Feb 2020.
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,
