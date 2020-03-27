@@ -17,10 +17,10 @@ layout: page
 
 <h2>First author peer-reviewed articles</h2>
 
-<ul class="skill-list">
+<ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R.,
 	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra</i>, 
-	    <br /><a href="https://arxiv.org/abs/2003.01814">arXiv:2003.01814</a>, Feb 2020.
+	    <br /><a href="https://arxiv.org/abs/2003.01814">arXiv:2003.01814</a>, accepted for publication in AJ. Feb 2020.
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,
 	    <br /><i>"A principal component analysis-based method to analyze high-resolution spectroscopic data on exoplanets”</i>, 
@@ -30,11 +30,11 @@ layout: page
 	    <br /><i>“Near-IR transmission spectrum of HAT-P-32 b using HST/WFC3”</i>, 
 	    <br /><a href="https://doi.org/10.3847/1538-3881/aa738b">AJ, 154, 39</a>, Jul 2017.
 	    <br /><br /></li>
-</ul>
+</ol>
 
 <h2>Co-author</h2>
 
-<ul class="skill-list">
+<ol reversed>
 	<li>Tsiaras, A., Waldmann, I. P., Zingales, T., Rocchetto, M., Morello, G., <strong>Damiano, M.</strong>, Karpouzas, K., Tinetti, G., McKemmish, L. K., Tennyson, J., and Yurchenko, S. N., 
 	    <br /><i>“A Population Study of Gaseous Exoplanets”</i>, 
 	    <br /><a href="https://doi.org/10.3847/1538-3881/aaaf75">AJ, 155, 156</a>, Mar 2018.
@@ -55,4 +55,4 @@ layout: page
 	    <br /><i>"The Transiting Exoplanet Community Early Release Science Program for JWST,"</i>,
 	    <br /><a href="https://iopscience.iop.org/article/10.1088/1538-3873/aadbf3">PASP 130k4402</a>, Nov 2018.
 	    <br /><br /></li>
-</ul>
+</ol>
