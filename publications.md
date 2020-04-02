@@ -20,7 +20,7 @@ layout: page
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R.,
 	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra</i>, 
-	    <br /><a href="https://arxiv.org/abs/2003.01814">arXiv:2003.01814</a>, accepted for publication in AJ. Feb 2020.
+	    <br /><a href="https://doi.org/10.3847/1538-3881/ab79a5">AJ, 159, 175</a>, Mar 2020.
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,
 	    <br /><i>"A principal component analysis-based method to analyze high-resolution spectroscopic data on exoplanets”</i>, 
