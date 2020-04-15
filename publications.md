@@ -15,11 +15,11 @@ layout: page
 <a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=author%3A%22Damiano%2C%20Mario%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7oeBd-zcmgFP18z1PpqppgLY0FqPvqD0H9R1Q6zMXVBW-GRF" height=" 60" width=" 70" title="Google Scholar" /></a>
 </p></center>
 
-<h2>First author peer-reviewed articles</h2>
+<h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R.,
-	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra</i>, 
+	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra"</i>, 
 	    <br /><a href="https://doi.org/10.3847/1538-3881/ab79a5">AJ, 159, 175</a>, Mar 2020.
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,
