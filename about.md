@@ -5,7 +5,7 @@ layout: page
 
 <h2>Contact</h2>
 <ul class="skill-list">
-	<li><u>Address</u>:  4800 Oak Grove Dr, M/S 169-237, 91011, La Ca<span>&#241;</span>ada Flintridge, CA, United States</li>
+	<li><u>Address</u>:  4800 Oak Grove Dr, M/S 169-237, 91109, Pasadena, CA, United States</li>
 	<li><u>Office</u>:   +1 (818) 354 5438</li>
 	<li><u>Mobile</u>:   +1 (818) 928 9338</li>
 	<li><u>Mail</u>:     mario.damiano@jpl.nasa.gov</li>
