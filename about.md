@@ -39,7 +39,7 @@ layout: page
 <br />December 2015 – January 2019
 <br />Department of Physics and Astronomy, University College London, United Kingdom.
 <br />Thesis title: <i>"From space to ground: planetary atmospheres revealed through a machine learning approach"</i>.
-<br />Subjects: Transit spectroscopy of exoplanets with the HST/WFC3 camera, data analysis, atmoshperic retrievals, 
+<br />Subjects: Transmission spectroscopy of exoplanets with the HST/WFC3 camera, data analysis, atmoshperic retrievals, 
 high-resolution spectral data analysis, machine learning, spectroscopy.
 <br />Supervisors: Prof. Giovanna Tinetti, Dr. Giuseppina Micela, and Dr. Ingo P. Waldmann.</p></li>
 	<li><p>MSc in Physics - Summa cum laude, grade A+
@@ -64,7 +64,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 
 <h2>Awards and Honors</h2>
 <ul class="skill-list">
-<li><i>"Tessera Preziosa del mosaio di Palermo"</i>, Palermitan recognition for outstanding citizens, September 2018.</li>
+<li><i>"Tessera Preziosa del mosaico di Palermo"</i>, recognition for outstanding citizens of Palermo, September 2018.</li>
 </ul>
 
 <h2>Skills</h2>
@@ -79,7 +79,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
     <ul>
       <li>Operating systems: Mac OS (excellent), Linux (excellent), Windows (excellent).</li>
       <li>Programming: Python (excellent, included most important libraries for data analysis and deep learning), Matlab (basic), C (basic).</li>
-      <li>Other: LaTeX (excellent), Apple softwares (excellent), M. Office (excellent).</li>
+      <li>Other: LaTeX (excellent), Apple softwares (excellent), Microsoft Office (excellent).</li>
     </ul>
   </li>
 </ul>
