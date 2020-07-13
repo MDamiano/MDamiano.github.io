@@ -18,6 +18,10 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
+    <li><strong>Damiano, M.</strong>, Hu, R., Hildebrandt, Sergi R.,
+	    <br /><i>"Multi-orbital-phase and multi-band characterization of exoplanetary atmospheres with reflected light spectra"</i>, 
+	    <br />submitted to AJ, July 2020.
+	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R.,
 	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra"</i>, 
 	    <br /><a href="https://doi.org/10.3847/1538-3881/ab79a5">AJ, 159, 175</a>, Mar 2020.
