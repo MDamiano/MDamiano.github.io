@@ -18,7 +18,7 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
-    <li><strong>Damiano, M.</strong>, Hu, R., Hildebrandt, Sergi R.,
+    <li><strong>Damiano, M.</strong>, Hu, R., Hildebrandt, S.R.,
 	    <br /><i>"Multi-orbital-phase and multi-band characterization of exoplanetary atmospheres with reflected light spectra"</i>, 
 	    <br />submitted to AJ, July 2020.
 	    <br /><br /></li>
