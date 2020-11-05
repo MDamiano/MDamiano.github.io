@@ -6,6 +6,10 @@ layout: page
 <h2>Invited seminars</h2>
 
 <ul class="skill-list">
+    <li>JPL Postdoc Seminar Series, Jet Propulsion Laboratory,
+	    <br /><i>"Exoplanetary characterization through reflection spectroscopy"</i> 
+	    <br />Pasadena, CA, United States. October 2020.
+	    <br /><br /></li>
 	<li>Yuk luncheon seminar, California Institute of Technology,
 	    <br /><i>"Two Lenses for Glasses: Low- and High-resolution Spectroscopic Observations of Exoplanetary Atmospheres"</i> 
 	    <br />Pasadena, CA, United States. April 2019.

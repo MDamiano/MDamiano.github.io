@@ -20,7 +20,7 @@ layout: page
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R., Hildebrandt, S.R.,
 	    <br /><i>"Multi-orbital-phase and multi-band characterization of exoplanetary atmospheres with reflected light spectra"</i>, 
-	    <br />submitted to AJ, July 2020.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/abb76a/">AJ, 160, 206</a>, Nov 2020.
 	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R.,
 	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra"</i>, 
@@ -28,11 +28,11 @@ layout: page
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,
 	    <br /><i>"A principal component analysis-based method to analyze high-resolution spectroscopic data on exoplanets”</i>, 
-	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab22b2">ApJ, 878, 153</a>, Jun 2019.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab22b2">ApJ, 878, 153</a>, June 2019.
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Morello, G., Tsiaras, A., Zingales, T., Tinetti, G., 
 	    <br /><i>“Near-IR transmission spectrum of HAT-P-32 b using HST/WFC3”</i>, 
-	    <br /><a href="https://doi.org/10.3847/1538-3881/aa738b">AJ, 154, 39</a>, Jul 2017.
+	    <br /><a href="https://doi.org/10.3847/1538-3881/aa738b">AJ, 154, 39</a>, July 2017.
 	    <br /><br /></li>
 </ol>
 
