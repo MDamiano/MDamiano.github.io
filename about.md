@@ -51,7 +51,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
     <li><p>BSc in Physics Science - 108/110, grade A
 <br />November 2010 – December 2013
 <br />Department of Physics and Chemistry, University of Palermo, Italy.
-<br />Thesis title: <i>"Exoplanets and stellar activity in the IR band"</i>.
+<br />Thesis title: <i>"Exoplanets and stellar activity in the IR-band"</i>.
 <br />Subjects: Transit modelling, stellar activity, effects of stellar activity to the planetary transits. 
 <br />Supervisors: Prof. Giovanni Peres and Dr. Giuseppina Micela.</p></li>
 </ul>
@@ -78,7 +78,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
   <li>Computing
     <ul>
       <li>Operating systems: Mac OS (excellent), Linux (excellent), Windows (excellent).</li>
-      <li>Programming: Python (excellent, included most important libraries for data analysis and deep learning), Matlab (basic), C (basic).</li>
+      <li>Programming: Python (excellent, including the most important libraries for data analysis and deep learning), Matlab (basic), C (basic).</li>
       <li>Other: LaTeX (excellent), Apple softwares (excellent), Microsoft Office (excellent).</li>
     </ul>
   </li>
