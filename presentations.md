@@ -24,15 +24,6 @@ layout: page
 	    <br /><br /></li>
 </ul>
 
-<h2>Invited talks</h2>
-
-<ul class="skill-list">
-	<li>University College London (UCL), “Workshop for cooperation with Indian Astrophysics Community”,
-	    <br /><i>"Planetary signal extraction via high-resolution spectroscopy"</i> 
-	    <br />London, England, United Kingdom. May 2018.
-	    <br /><br /></li>
-</ul>
-
 <h2>Oral presentations</h2>
 
 <ul class="skill-list">
@@ -51,6 +42,10 @@ layout: page
 	<li>Centre for Planetary Science (CPS) meeting, Mullard Space Science Laboratory (MSSL), 
 	    <br /><i>"Planetary signal extraction via high resolution spectroscopy"</i>
 	    <br />England, United Kingdom. June 2018.
+	    <br /><br /></li>
+	<li>University College London (UCL), “Workshop for cooperation with Indian Astrophysics Community”,
+	    <br /><i>"Planetary signal extraction via high-resolution spectroscopy"</i> 
+	    <br />London, England, United Kingdom. May 2018.
 	    <br /><br /></li>
 	<li>European Planetary Science Congress (EPSC) 12, 
 	    <br /><i>"Near IR transmission spectrum of HAT-P-32b using WFC3 camera on board HST"</i>

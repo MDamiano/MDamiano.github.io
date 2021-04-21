@@ -39,6 +39,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Hu, R., Hildebrandt, S. R., <strong>Damiano, M.</strong>, Shaklan, S.,  Martin, S., Lisman, D., 
+	    <br /><i>“Starshade Exoplanet Data Challenge”</i>, 
+	    <br /><a href="https://doi.org/10.1117/1.JATIS.7.2.021216">JATIS, 7(2), 021216</a>, Mar 2021.
+	    <br /><br /></li>
 	<li>Tsiaras, A., Waldmann, I. P., Zingales, T., Rocchetto, M., Morello, G., <strong>Damiano, M.</strong>, Karpouzas, K., Tinetti, G., McKemmish, L. K., Tennyson, J., and Yurchenko, S. N., 
 	    <br /><i>“A Population Study of Gaseous Exoplanets”</i>, 
 	    <br /><a href="https://doi.org/10.3847/1538-3881/aaaf75">AJ, 155, 156</a>, Mar 2018.
