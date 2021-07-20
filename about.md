@@ -24,13 +24,13 @@ layout: page
 	<li>Composition and dynamic of exoplanetary atmospheres.</li>
 	<li>Data analysis of observations taken from space and ground facilities.</li>
 	<li>Interpretation of atmospheric spectra through Bayesian retrieval process.</li>
-	<li>Development and application of deep learning algorithms for data analysis.</li>
+	<li>Development of deep learning algorithms for data analysis.</li>
 </ul>
 
 <h2>Professional experience</h2>
 <ul class="skill-list">
 	<li><strong>JPL Postdoctoral Fellow</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. November 2018 - today.</li>
-	<li><strong>Research Associate</strong>, National Institute of Astrophysics Palermo Observatory (INAF-OAPa). Palermo, Italy. December 2015 - today.</li>
+	<li><strong>Research Associate</strong>, National Institute of Astrophysics Palermo Observatory (INAF-OAPa). Palermo, Italy. December 2015 - December 2020.</li>
 </ul>
 
 <h2>Education</h2>
@@ -42,13 +42,13 @@ layout: page
 <br />Subjects: Transmission spectroscopy of exoplanets with the HST/WFC3 camera, data analysis, atmoshperic retrievals, 
 high-resolution spectral data analysis, machine learning, spectroscopy.
 <br />Supervisors: Prof. Giovanna Tinetti, Dr. Giuseppina Micela, and Dr. Ingo P. Waldmann.</p></li>
-	<li><p>MSc in Physics - Summa cum laude, grade A+
+	<li><p>MSc in Physics
 <br />December 2013 – October 2015 
 <br />Department of Physics and Chemistry, University of Palermo, Italy.
 <br />Thesis title: <i>"Exoplanetary atmospheres: simulation of high-resolution spectra for the iLocator and the HIRES instruments"</i>.
 <br />Subjects: Transit modelling, simulating high-resolution spectral observations, data analysis and atmospheric characterization. 
 <br />Supervisors: Prof. Giovanni Peres and Dr. Giuseppina Micela.</p></li>
-    <li><p>BSc in Physics Science - 108/110, grade A
+    <li><p>BSc in Physics Science
 <br />November 2010 – December 2013
 <br />Department of Physics and Chemistry, University of Palermo, Italy.
 <br />Thesis title: <i>"Exoplanets and stellar activity in the IR-band"</i>.

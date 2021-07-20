@@ -43,6 +43,14 @@ layout: page
 	    <br /><i>“Starshade Exoplanet Data Challenge”</i>, 
 	    <br /><a href="https://doi.org/10.1117/1.JATIS.7.2.021216">JATIS, 7(2), 021216</a>, Mar 2021.
 	    <br /><br /></li>
+	<li>Bean, J. L., plus 96 co-authors,
+	    <br /><i>"The Transiting Exoplanet Community Early Release Science Program for JWST,"</i>,
+	    <br /><a href="https://iopscience.iop.org/article/10.1088/1538-3873/aadbf3">PASP 130k4402</a>, Nov 2018.
+	    <br /><br /></li>
+	<li>Tinetti, G., plus 242 co-authors,
+	    <br /><i>"A chemical survey of exoplanets with ARIEL"</i>,
+	    <br /><a href="https://dx.doi.org/10.1007/s10686-018-9598-x">Exp Astron 46, 135</a>, Sep 2018.
+	    <br /><br /></li>
 	<li>Tsiaras, A., Waldmann, I. P., Zingales, T., Rocchetto, M., Morello, G., <strong>Damiano, M.</strong>, Karpouzas, K., Tinetti, G., McKemmish, L. K., Tennyson, J., and Yurchenko, S. N., 
 	    <br /><i>“A Population Study of Gaseous Exoplanets”</i>, 
 	    <br /><a href="https://doi.org/10.3847/1538-3881/aaaf75">AJ, 155, 156</a>, Mar 2018.
@@ -54,13 +62,5 @@ layout: page
 	<li>Tsiaras, A., Waldmann, I. P., Rocchetto, M., Varley, R., Morello, G., <strong>Damiano, M.</strong>, Tinetti, G., 
 	    <br /><i>“A New Approach to Analyzing HST Spatial Scans: The Transmission Spectrum of HD 209458 b”</i>, 
 	    <br /><a href="https://doi.org/10.3847/0004-637X/832/2/202">ApJ, 832, 202</a>, Dec 2016.
-	    <br /><br /></li>
-	<li>Tinetti, G., plus 242 co-authors,
-	    <br /><i>"A chemical survey of exoplanets with ARIEL"</i>,
-	    <br /><a href="https://dx.doi.org/10.1007/s10686-018-9598-x">Exp Astron 46, 135</a>, Sep 2018.
-	    <br /><br /></li>
-	<li>Bean, J. L., plus 96 co-authors,
-	    <br /><i>"The Transiting Exoplanet Community Early Release Science Program for JWST,"</i>,
-	    <br /><a href="https://iopscience.iop.org/article/10.1088/1538-3873/aadbf3">PASP 130k4402</a>, Nov 2018.
 	    <br /><br /></li>
 </ol>
