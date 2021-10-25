@@ -20,7 +20,7 @@ layout: page
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R.,
 	    <br /><i>“Reflected spectroscopy of small exoplanets I: determining the atmospheric composition of sub-Neptunes planets”</i>, 
-	    <br /><a href="2021arXiv210911659D">arXiv</a>, accepted for publication in AJ, Oct 2021.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac224d">AJ, 162, 200</a>, Oct 2021.
 	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R., Hildebrandt, S.R.,
 	    <br /><i>"Multi-orbital-phase and multi-band characterization of exoplanetary atmospheres with reflected light spectra"</i>, 
@@ -45,7 +45,7 @@ layout: page
 <ol reversed>
     <li>Hu, R., <strong>Damiano, M.</strong>, Scheucher, M.,  Kite, E., Seager, S., Rauer, H.,
 	    <br /><i>“Unveiling shrouded oceans on temperate sub-Neptunes via transit signatures of solubility equilibria vs. gas thermochemistry”</i>, 
-	    <br /><a href="2021arXiv210804745H">arXiv</a>, submitted to ApJL.
+	    <br /><a href="https://arxiv.org/abs/2108.04745">arXiv</a>, submitted to ApJL.
 	    <br /><br /></li>
     <li>Hu, R., Hildebrandt, S. R., <strong>Damiano, M.</strong>, Shaklan, S.,  Martin, S., Lisman, D., 
 	    <br /><i>“Starshade Exoplanet Data Challenge”</i>, 
