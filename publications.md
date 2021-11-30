@@ -45,7 +45,7 @@ layout: page
 <ol reversed>
     <li>Hu, R., <strong>Damiano, M.</strong>, Scheucher, M.,  Kite, E., Seager, S., Rauer, H.,
 	    <br /><i>“Unveiling shrouded oceans on temperate sub-Neptunes via transit signatures of solubility equilibria vs. gas thermochemistry”</i>, 
-	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/ac1f92">ApJL 921 L8</a>, Oct 2021.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/ac1f92">ApJL, 921, L8</a>, Oct 2021.
 	    <br /><br /></li>
     <li>Hu, R., Hildebrandt, S. R., <strong>Damiano, M.</strong>, Shaklan, S.,  Martin, S., Lisman, D., 
 	    <br /><i>“Starshade Exoplanet Data Challenge”</i>, 
