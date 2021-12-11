@@ -17,7 +17,7 @@ layout: page
 
 <p>Mario received his Ph.D. at the University College London (UCL). During his Ph.D. he worked on the analysis of data taken from space satellites (e.g., Hubble Space Telescope) and ground facilities (e.g., Very Large Telescope). The Ph.D. was funded by the European Research Council (ERC) and the National Institute of Astrophysics (INAF).</p>
 
-<p>Since November 2018, he is a JPL postdoc fellow. Mario performs data analysis to study and interpret the spectroscopic characteristics of exoplanetary atmospheres to unveil atmospheric composition and dynamics of these alien worlds. In particular, he is working on the development of a Bayesian retrieval framework that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is studying the possibilities of implementing such powerful algorithms into his research.</p>
+<p>Since November 2018, he is a postdoctoral research fellow at the Jet Propulsion Laboratory (NASA/JPL). Mario performs data analysis to study and to interpret the spectroscopic characteristics of exoplanetary atmospheres to unveil atmospheric composition and dynamics of these alien worlds. In particular, he is working on the development of a Bayesian retrieval framework that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is studying the possibilities of implementing such powerful algorithms into his research.</p>
 
 <h2>Research interests</h2>
 <ul class="skill-list">
