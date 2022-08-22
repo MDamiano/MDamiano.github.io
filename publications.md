@@ -19,6 +19,10 @@ layout: page
 
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R.,
+	    <br /><i>“Reflected Spectroscopy of Small Exoplanets II: Characterization of Terrestrial Exoplanets”</i>, 
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac6b97">AJ, 163, 299</a>, May 2022.
+	    <br /><br /></li>
+    <li><strong>Damiano, M.</strong>, Hu, R.,
 	    <br /><i>“Reflected spectroscopy of small exoplanets I: determining the atmospheric composition of sub-Neptunes planets”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac224d">AJ, 162, 200</a>, Oct 2021.
 	    <br /><br /></li>

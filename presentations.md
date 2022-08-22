@@ -6,6 +6,14 @@ layout: page
 <h2>Invited seminars</h2>
 
 <ul class="skill-list">
+    <li>Jet Propulsion Laboratory,
+	    <br /><i>"Exoplanetary atmospheres revealed through machine learning approaches"</i> 
+	    <br />Pasadena, CA, United States. June 2022.
+	    <br /><br /></li>
+    <li>IPAC, California Institute of Technology,
+	    <br /><i>"Unravel the nature of exoplanetary atmospheres through spectroscopic characterization"</i> 
+	    <br />Pasadena, CA, United States. July 2021.
+	    <br /><br /></li>
     <li>JPL Postdoc Seminar Series, Jet Propulsion Laboratory,
 	    <br /><i>"Exoplanetary characterization through reflection spectroscopy"</i> 
 	    <br />Pasadena, CA, United States. October 2020.
@@ -27,6 +35,14 @@ layout: page
 <h2>Oral presentations</h2>
 
 <ul class="skill-list">
+    <li>ExoSS workshop, 
+	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
+	    <br />Pasadena, CA, United States. May 2022.
+	    <br /><br /></li>
+    <li>Astrobiology Science Conference (AbSciCon), 
+	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
+	    <br />Atlanta, GA, United States. May 2022.
+	    <br /><br /></li>
     <li>2<sup>nd</sup> Starshade Science Industry Partnership (SIP) forum, 
 	    <br /><i>"Exoplanetary characterization through reflection spectroscopy"</i>
 	    <br />Boulder, CO, United States. February 2020.
@@ -64,6 +80,10 @@ layout: page
 <h2>Posters</h2>
 
 <ul class="skill-list">
+    <li>Exoplanet IV,
+        <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
+        <br />Las Vegas, NV, United States. Apr 2022.
+        <br /><br /></li>
     <li>JPL Postdoc Reseach day,
         <br /><i>"ExoReL: a new frontier for reflection spectroscopy"</i>
         <br />Pasadena, CA, United States. July 2019.
