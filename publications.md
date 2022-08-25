@@ -47,6 +47,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>The JWST Transiting Exoplanet Community Early Release Science Team, 121 co-authors,
+	    <br /><i>"Identification of carbon dioxide in an exoplanet atmosphere"</i>,
+	    <br /><a href="https://arxiv.org/abs/2208.11692">arXiv:2208.11692</a>, Aug 2022.
+	    <br /><br /></li>
     <li>Hu, R., <strong>Damiano, M.</strong>, Scheucher, M.,  Kite, E., Seager, S., Rauer, H.,
 	    <br /><i>“Unveiling shrouded oceans on temperate sub-Neptunes via transit signatures of solubility equilibria vs. gas thermochemistry”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/ac1f92">ApJL, 921, L8</a>, Oct 2021.
@@ -56,7 +60,7 @@ layout: page
 	    <br /><a href="https://doi.org/10.1117/1.JATIS.7.2.021216">JATIS, 7(2), 021216</a>, Mar 2021.
 	    <br /><br /></li>
 	<li>Bean, J. L., plus 96 co-authors,
-	    <br /><i>"The Transiting Exoplanet Community Early Release Science Program for JWST,"</i>,
+	    <br /><i>"The Transiting Exoplanet Community Early Release Science Program for JWST"</i>,
 	    <br /><a href="https://iopscience.iop.org/article/10.1088/1538-3873/aadbf3">PASP 130k4402</a>, Nov 2018.
 	    <br /><br /></li>
 	<li>Tinetti, G., plus 242 co-authors,
