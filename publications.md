@@ -19,7 +19,11 @@ layout: page
 
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R.,
-	    <br /><i>“Reflected Spectroscopy of Small Exoplanets II: Characterization of Terrestrial Exoplanets”</i>, 
+	    <br /><i>“A transmission spectrum of the sub-Earth planet L98-59b in 1.1-1.7 μm”</i>, 
+	    <br /><a href="https://arxiv.org/abs/2210.10008">arXiv:2210.10008</a>, Oct 2022.
+	    <br /><br /></li>
+    <li><strong>Damiano, M.</strong>, Hu, R.,
+	    <br /><i>“Reflected spectroscopy of small exoplanets II: characterization of terrestrial exoplanets”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac6b97">AJ, 163, 299</a>, May 2022.
 	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R.,
@@ -31,7 +35,7 @@ layout: page
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/abb76a/">AJ, 160, 206</a>, Nov 2020.
 	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R.,
-	    <br /><i>"ExoReL<sup>R</sup>: A Bayesian Inverse Retrieval Framework For Exoplanetary Reflected Light Spectra"</i>, 
+	    <br /><i>"ExoReL<sup>R</sup>: a Bayesian inverse retrieval framework for exoplanetary reflected light spectra"</i>, 
 	    <br /><a href="https://doi.org/10.3847/1538-3881/ab79a5">AJ, 159, 175</a>, Mar 2020.
 	    <br /><br /></li>
 	<li><strong>Damiano, M.</strong>, Micela, G., Tinetti, G.,

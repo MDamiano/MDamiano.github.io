@@ -5,8 +5,7 @@ layout: page
 
 <h2>Contact</h2>
 <ul class="skill-list">
-	<li><u>Address</u>:  4800 Oak Grove Dr, M/S 169-237, 91109, Pasadena, CA, United States</li>
-	<li><u>Office</u>:   +1 (818) 354 5438</li>
+	<li><u>Address</u>:  4800 Oak Grove Dr, M/S 158-256A, 91109, Pasadena, CA, United States</li>
 	<li><u>Mobile</u>:   +1 (818) 928 9338</li>
 	<li><u>Mail</u>:     mario.damiano@jpl.nasa.gov</li>
 </ul>
@@ -17,7 +16,7 @@ layout: page
 
 <p>Mario received his Ph.D. at the University College London (UCL). During his Ph.D. he worked on the analysis of data taken from space satellites (e.g., Hubble Space Telescope) and ground facilities (e.g., Very Large Telescope). The Ph.D. was funded by the European Research Council (ERC) and the National Institute of Astrophysics (INAF).</p>
 
-<p>Since November 2018, he is a postdoctoral research fellow at the Jet Propulsion Laboratory (NASA/JPL). Mario performs data analysis to study and to interpret the spectroscopic characteristics of exoplanetary atmospheres to unveil atmospheric composition and dynamics of these alien worlds. In particular, he is working on the development of a Bayesian retrieval framework that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is studying the possibilities of implementing such powerful algorithms into his research.</p>
+<p>Since 2018, he is employed at the Jet Propulsion Laboratory (NASA/JPL). Mario performs data analysis (of HST and JWST observations) to study and to interpret the spectroscopic characteristics of exoplanetary atmospheres to unveil atmospheric composition and dynamics of these alien worlds. In particular, he focuses on the development of Bayesian retrieval frameworks that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is exploring the possibilities of implementing such powerful algorithms into his research.</p>
 
 <h2>Research interests</h2>
 <ul class="skill-list">
@@ -29,7 +28,8 @@ layout: page
 
 <h2>Professional experience</h2>
 <ul class="skill-list">
-	<li><strong>JPL Postdoctoral Fellow</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. November 2018 - today.</li>
+    <li><strong>Data Scientist</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. October 2022 - today.</li>
+	<li><strong>JPL Postdoctoral Fellow</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. November 2018 - October 2022.</li>
 	<li><strong>Research Associate</strong>, National Institute of Astrophysics Palermo Observatory (INAF-OAPa). Palermo, Italy. December 2015 - December 2020.</li>
 </ul>
 
@@ -88,5 +88,4 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 
 <ul class="skill-list">
 	<li><a href="https://science.jpl.nasa.gov/people/Damiano/">NASA / Jet Propulsion Laboratory - Caltech | Mario Damiano's page</a></li>
-	<li><a href="https://www.ucl.ac.uk/astrophysics/mario-damiano-phd-student">University College London | Mario Damiano's page</a></li>
 </ul>
