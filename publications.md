@@ -18,9 +18,9 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
-    <li><strong>Damiano, M.</strong>, Hu, R.,
+    <li><strong>Damiano, M.</strong>, Hu, R., Barclay, T., Zieba, S., Kreidberg, L., Brande, J., Colon, K. D., Covone, G., Crossfield, I., Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Gilbert, E., Hedges, C. L., Kite, E. S., Kopparapu, R. K., Kostov, V. B., Morley, C., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Quintana, E. V.,
 	    <br /><i>“A transmission spectrum of the sub-Earth planet L98-59b in 1.1-1.7 μm”</i>, 
-	    <br /><a href="https://arxiv.org/abs/2210.10008">arXiv:2210.10008</a>, Oct 2022.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac9472">AJ, 164, 225</a>, Oct 2022.
 	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R.,
 	    <br /><i>“Reflected spectroscopy of small exoplanets II: characterization of terrestrial exoplanets”</i>, 
