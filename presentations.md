@@ -35,6 +35,10 @@ layout: page
 <h2>Oral presentations</h2>
 
 <ul class="skill-list">
+    <li>241<sup>st</sup> American Astronomical Society (AAS) meeting, 
+	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
+	    <br />Seattle, WA, United States. Jan 2023.
+	    <br /><br /></li>
     <li>ExoSS workshop, 
 	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
 	    <br />Pasadena, CA, United States. May 2022.

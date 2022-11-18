@@ -58,6 +58,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 
 <h2>Grants and Fellowships</h2>
 <ul class="skill-list">
+<li>Multiple awarded STScI grants for HST and JWST observations, 2020-present.</li>
 <li>Jet Propulsion Laboratory (JPL/Caltech) Postdoctoral Fellowship, November 2018.</li>
 <li>ERC-INAF PhD studentship, December 2015.</li>
 </ul>
