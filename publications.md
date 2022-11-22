@@ -51,7 +51,15 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
-    <li>The JWST Transiting Exoplanet Community Early Release Science Team, 121 co-authors,
+    <li>The JWST Transiting Exoplanet Community Early Release Science Team, 92 co-authors,
+	    <br /><i>"Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H"</i>,
+	    <br /><a href="https://arxiv.org/abs/2211.10488">arXiv:2211.10488</a>, Nov 2022.
+	    <br /><br /></li>
+    <li>The JWST Transiting Exoplanet Community Early Release Science Team, 99 co-authors,
+	    <br /><i>"Early Release Science of the exoplanet WASP-39b with JWST NIRCam"</i>,
+	    <br /><a href="https://arxiv.org/abs/2211.10489">arXiv:2211.10489</a>, Nov 2022.
+	    <br /><br /></li>
+    <li>The JWST Transiting Exoplanet Community Early Release Science Team, 131 co-authors,
 	    <br /><i>"Identification of carbon dioxide in an exoplanet atmosphere"</i>,
 	    <br /><a href="https://arxiv.org/abs/2208.11692">arXiv:2208.11692</a>, Aug 2022.
 	    <br /><br /></li>
