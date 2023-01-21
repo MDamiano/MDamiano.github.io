@@ -53,7 +53,7 @@ layout: page
 <ol reversed>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 92 co-authors,
 	    <br /><i>"Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H"</i>,
-	    <br /><a href="https://arxiv.org/abs/2211.10488">arXiv:2211.10488</a>, Nov 2022.
+	    <br /><a href="https://www.nature.com/articles/s41586-022-05591-3">Nature</a>, Jan 2023.
 	    <br /><br /></li>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 99 co-authors,
 	    <br /><i>"Early Release Science of the exoplanet WASP-39b with JWST NIRCam"</i>,
@@ -61,7 +61,7 @@ layout: page
 	    <br /><br /></li>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 131 co-authors,
 	    <br /><i>"Identification of carbon dioxide in an exoplanet atmosphere"</i>,
-	    <br /><a href="https://arxiv.org/abs/2208.11692">arXiv:2208.11692</a>, Aug 2022.
+	    <br /><a href="https://www.nature.com/articles/s41586-022-05269-w">Nature</a>, Sep 2022.
 	    <br /><br /></li>
     <li>Hu, R., <strong>Damiano, M.</strong>, Scheucher, M.,  Kite, E., Seager, S., Rauer, H.,
 	    <br /><i>“Unveiling shrouded oceans on temperate sub-Neptunes via transit signatures of solubility equilibria vs. gas thermochemistry”</i>, 
