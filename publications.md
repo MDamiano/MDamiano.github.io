@@ -51,6 +51,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Barclay, T., Sheppard, K.B., Latouf, N.,  Mandell, A.M., Quintana, E.V., Gilbert, E.A., Liuzzi, G., Villanueva, G.L., Arney, G., Brande, J., Colón, K.D., Covone, G., Crossfield, I.J.M., <strong>Damiano, M.</strong> Domagal-Goldman, S.D., Fauchez, T.J., Fiscale, S., Gallo, F., Hedges, C.L., Hu, R., Kite, E.S., Koll, D., Kopparapu, R.K., Kostov, V.B., Kreidberg, L., Lopez, E.D., Mang, J., Morley, C.V., Mullally, F., Mullally, S.E., Pidhorodetska, D., Schlieder, J.E., Vega, L.D., Youngblood, A., Zieba, S.,
+	    <br /><i>"The transmission spectrum of the potentially rocky planet L 98-59 c"</i>,
+	    <br /><a href="https://arxiv.org/abs/2301.10866">arXiv:2301.10866</a>, Jan 2023.
+	    <br /><br /></li>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 92 co-authors,
 	    <br /><i>"Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H"</i>,
 	    <br /><a href="https://www.nature.com/articles/s41586-022-05591-3">Nature</a>, Jan 2023.
