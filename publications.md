@@ -18,7 +18,7 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
-    <li><strong>Damiano, M.</strong>, Hu, R., Barclay, T., Zieba, S., Kreidberg, L., Brande, J., Colon, K. D., Covone, G., Crossfield, I., Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Gilbert, E., Hedges, C. L., Kite, E. S., Kopparapu, R. K., Kostov, V. B., Morley, C., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Quintana, E. V.,
+    <li><strong>Damiano, M.</strong>, Hu, R., Barclay, T., Zieba, S., Kreidberg, L., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Gilbert, E., Hedges, C. L., Kite, E. S., Kopparapu, R. K., Kostov, V. B., Morley, C., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Quintana, E. V.,
 	    <br /><i>“A transmission spectrum of the sub-Earth planet L98-59b in 1.1-1.7 μm”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac9472">AJ, 164, 225</a>, Oct 2022.
 	    <br /><br /></li>
@@ -51,7 +51,7 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
-    <li>Barclay, T., Sheppard, K.B., Latouf, N.,  Mandell, A.M., Quintana, E.V., Gilbert, E.A., Liuzzi, G., Villanueva, G.L., Arney, G., Brande, J., Colón, K.D., Covone, G., Crossfield, I.J.M., <strong>Damiano, M.</strong> Domagal-Goldman, S.D., Fauchez, T.J., Fiscale, S., Gallo, F., Hedges, C.L., Hu, R., Kite, E.S., Koll, D., Kopparapu, R.K., Kostov, V.B., Kreidberg, L., Lopez, E.D., Mang, J., Morley, C.V., Mullally, F., Mullally, S.E., Pidhorodetska, D., Schlieder, J.E., Vega, L.D., Youngblood, A., Zieba, S.,
+    <li>Barclay, T., Sheppard, K. B., Latouf, N.,  Mandell, A. M., Quintana, E. V., Gilbert, E. A., Liuzzi, G., Villanueva, G. L., Arney, G., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., <strong>Damiano, M.</strong> Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Hedges, C. L., Hu, R., Kite, E. S., Koll, D., Kopparapu, R. K., Kostov, V. B., Kreidberg, L., Lopez, E. D., Mang, J., Morley, C. V., Mullally, F., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Vega, L. D., Youngblood, A., Zieba, S.,
 	    <br /><i>"The transmission spectrum of the potentially rocky planet L 98-59 c"</i>,
 	    <br /><a href="https://arxiv.org/abs/2301.10866">arXiv:2301.10866</a>, Jan 2023.
 	    <br /><br /></li>
