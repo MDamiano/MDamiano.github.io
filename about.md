@@ -28,7 +28,7 @@ layout: page
 
 <h2>Professional experience</h2>
 <ul class="skill-list">
-    <li><strong>Data Scientist</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. October 2022 - today.</li>
+    <li><strong>Scientist & Data Scientist</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. October 2022 - today.</li>
 	<li><strong>JPL Postdoctoral Fellow</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. November 2018 - October 2022.</li>
 	<li><strong>Research Associate</strong>, National Institute of Astrophysics Palermo Observatory (INAF-OAPa). Palermo, Italy. December 2015 - December 2020.</li>
 </ul>
