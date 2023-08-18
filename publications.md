@@ -18,6 +18,10 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
+    <li><strong>Damiano, M.</strong>, Hu, R., Mennesson, B.,
+	    <br /><i>“Reflected spectroscopy of small exoplanets III: probing the UV band to measure biosignature gasses”</i>, 
+	    <br /><a href="https://arxiv.org/abs/2308.08490">arXiv, 2308.08490</a>, Aug 2023.
+	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R., Barclay, T., Zieba, S., Kreidberg, L., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Gilbert, E., Hedges, C. L., Kite, E. S., Kopparapu, R. K., Kostov, V. B., Morley, C., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Quintana, E. V.,
 	    <br /><i>“A transmission spectrum of the sub-Earth planet L98-59b in 1.1-1.7 μm”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac9472">AJ, 164, 225</a>, Oct 2022.
@@ -51,6 +55,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Ahmed, Z., D'Amico, S., Hu, R., <strong>Damiano, M.</strong>,
+	    <br /><i>"Exoplanet Detection from Starshade Images using Convolutional Neural Networks"</i>,
+	    <br /><a href="https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/ahmed_spie2023_submitted.pdf">SPIE</a>, Aug 2023.
+	    <br /><br /></li>
     <li>Barclay, T., Sheppard, K. B., Latouf, N.,  Mandell, A. M., Quintana, E. V., Gilbert, E. A., Liuzzi, G., Villanueva, G. L., Arney, G., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., <strong>Damiano, M.</strong> Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Hedges, C. L., Hu, R., Kite, E. S., Koll, D., Kopparapu, R. K., Kostov, V. B., Kreidberg, L., Lopez, E. D., Mang, J., Morley, C. V., Mullally, F., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Vega, L. D., Youngblood, A., Zieba, S.,
 	    <br /><i>"The transmission spectrum of the potentially rocky planet L 98-59 c"</i>,
 	    <br /><a href="https://arxiv.org/abs/2301.10866">arXiv:2301.10866</a>, Jan 2023.
