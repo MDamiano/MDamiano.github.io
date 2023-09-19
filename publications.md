@@ -20,7 +20,7 @@ layout: page
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Hu, R., Mennesson, B.,
 	    <br /><i>“Reflected spectroscopy of small exoplanets III: probing the UV band to measure biosignature gasses”</i>, 
-	    <br /><a href="https://arxiv.org/abs/2308.08490">arXiv, 2308.08490</a>, Aug 2023.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acefd3">AJ, 166, 157</a>, Sep 2023.
 	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R., Barclay, T., Zieba, S., Kreidberg, L., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Gilbert, E., Hedges, C. L., Kite, E. S., Kopparapu, R. K., Kostov, V. B., Morley, C., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Quintana, E. V.,
 	    <br /><i>“A transmission spectrum of the sub-Earth planet L98-59b in 1.1-1.7 μm”</i>, 
