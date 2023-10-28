@@ -55,9 +55,17 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Savransky, D., Knight, R., Turmon, M., Spohn, C., Morgan, R., <strong>Damiano, M.</strong>, Genszler, G., Kulik, J.,
+	    <br /><i>"Quantifying the impacts of schedulability on science yield of exoplanet imaging missions"</i>,
+	    <br /><a href="http://dx.doi.org/10.1117/12.2677102">SPIE 126801K</a>, Oct 2023.
+	    <br /><br /></li>
+    <li>Morgan, R., Savransky, D., <strong>Damiano, M.</strong>, Lisman, D., Mennesson, B., Mamajek, E. E., Robinson, T. D., Turmon, M.,
+	    <br /><i>"Exo-Earth yield of a 6m space telescope in the near-infrared"</i>,
+	    <br /><a href="http://dx.doi.org/10.1117/12.2677785">SPIE 126801L</a>, Oct 2023.
+	    <br /><br /></li>
     <li>Ahmed, Z., D'Amico, S., Hu, R., <strong>Damiano, M.</strong>,
 	    <br /><i>"Exoplanet Detection from Starshade Images using Convolutional Neural Networks"</i>,
-	    <br /><a href="https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/ahmed_spie2023_submitted.pdf">SPIE</a>, Aug 2023.
+	    <br /><a href="http://dx.doi.org/10.1117/12.2676600">SPIE 1268028</a>, Oct 2023.
 	    <br /><br /></li>
     <li>Barclay, T., Sheppard, K. B., Latouf, N.,  Mandell, A. M., Quintana, E. V., Gilbert, E. A., Liuzzi, G., Villanueva, G. L., Arney, G., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., <strong>Damiano, M.</strong> Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Hedges, C. L., Hu, R., Kite, E. S., Koll, D., Kopparapu, R. K., Kostov, V. B., Kreidberg, L., Lopez, E. D., Mang, J., Morley, C. V., Mullally, F., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Vega, L. D., Youngblood, A., Zieba, S.,
 	    <br /><i>"The transmission spectrum of the potentially rocky planet L 98-59 c"</i>,
