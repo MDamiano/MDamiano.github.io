@@ -7,6 +7,10 @@ layout: page
 
 <ul class="skill-list">
     <li>Jet Propulsion Laboratory,
+	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i> 
+	    <br />Pasadena, CA, United States. 2023.
+	    <br /><br /></li>
+    <li>Jet Propulsion Laboratory,
 	    <br /><i>"Exoplanetary atmospheres revealed through machine learning approaches"</i> 
 	    <br />Pasadena, CA, United States. June 2022.
 	    <br /><br /></li>

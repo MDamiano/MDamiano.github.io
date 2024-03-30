@@ -5,8 +5,8 @@ layout: page
 
 <h2>Contact</h2>
 <ul class="skill-list">
-	<li><u>Address</u>:  4800 Oak Grove Dr, M/S 158-256A, 91109, Pasadena, CA, United States</li>
-	<li><u>Mobile</u>:   +1 (818) 928 9338</li>
+	<li><u>Address</u>:  4800 Oak Grove Dr, M/S 158-222D, 91109, Pasadena, CA, United States</li>
+	<li><u>Mobile</u>:   +1 (818) 928-9338</li>
 	<li><u>Mail</u>:     mario.damiano@jpl.nasa.gov</li>
 </ul>
 
@@ -20,10 +20,12 @@ layout: page
 
 <h2>Research interests</h2>
 <ul class="skill-list">
-	<li>Composition and dynamic of exoplanetary atmospheres.</li>
-	<li>Data analysis of observations taken from space and ground facilities.</li>
-	<li>Interpretation of atmospheric spectra through Bayesian retrieval process.</li>
-	<li>Development of deep learning algorithms for data analysis.</li>
+	<li>Characterization of exoplanetary atmospheres.</li>
+	<li>Spectroscopic data interpretation from observations gathered via space- and ground-based facilities.</li>
+	<li>Implementation of inverse information extraction techniques via Bayesian statistics.</li>
+	<li>Automation of data evaluation processes leveraging Machine Learning (ML) algorithms.</li>
+    <li>Formulation of comprehensive pipelines for streamlined data analysis.</li>
+    <li>echnical and scientific interpretation of data patterns and model predictions.</li>
 </ul>
 
 <h2>Professional experience</h2>
@@ -65,6 +67,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 
 <h2>Awards and Honors</h2>
 <ul class="skill-list">
+<li>"JPL Voyager Bonus Awards (2024), March 2024.</li>
 <li><i>"Tessera Preziosa del mosaico di Palermo"</i>, recognition for outstanding citizens of Palermo, September 2018.</li>
 </ul>
 
@@ -79,7 +82,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
   <li>Computing
     <ul>
       <li>Operating systems: Mac OS (excellent), Linux (excellent), Windows (excellent).</li>
-      <li>Programming: Python (excellent, including the most important libraries for data analysis and deep learning), Matlab (basic), C (basic).</li>
+      <li>Programming: Python (excellent, including the most important libraries for data analysis and machine learning), Matlab (basic), C (basic).</li>
       <li>Other: LaTeX (excellent), Apple softwares (excellent), Microsoft Office (excellent).</li>
     </ul>
   </li>
