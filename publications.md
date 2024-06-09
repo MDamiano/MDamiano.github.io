@@ -18,6 +18,10 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
+    <li><strong>Damiano, M.</strong>, Bello-Arufe, A., Yang, J., Hu, R.,
+	    <br /><i>“LHS 1140 b is a potentially habitable water world”</i>, 
+	    <br /><a href="https://arxiv.org/abs/2403.13265">arXiv:2403.13265</a>, Jun 2024.
+	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R., Mennesson, B.,
 	    <br /><i>“Reflected spectroscopy of small exoplanets III: probing the UV band to measure biosignature gasses”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/acefd3">AJ, 166, 157</a>, Sep 2023.
@@ -55,6 +59,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Hu, R.,  Bello-Arufe, A.,  Zhang, M.,  Paragas, K.,  Zilinskas, M., van Buchem, C.,  Bess, M.,  Patel, J.,  Ito, Y.,  <strong>Damiano, M.</strong>,  Scheucher, M., Oza, A.V.,  Knutson, H.A.,  Miguel, Y.,  Dragomir, D.,  Brandeker, A., Demory, B.O.,
+	    <br /><i>"A secondary atmosphere on the rocky exoplanet 55 Cancri e"</i>,
+	    <br /><a href="https://www.nature.com/articles/s41586-024-07432-x">Nature</a>, May 2024.
+	    <br /><br /></li>
     <li>Savransky, D., Knight, R., Turmon, M., Spohn, C., Morgan, R., <strong>Damiano, M.</strong>, Genszler, G., Kulik, J.,
 	    <br /><i>"Quantifying the impacts of schedulability on science yield of exoplanet imaging missions"</i>,
 	    <br /><a href="http://dx.doi.org/10.1117/12.2677102">SPIE 126801K</a>, Oct 2023.

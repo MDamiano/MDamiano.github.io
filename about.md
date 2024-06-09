@@ -67,7 +67,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 
 <h2>Awards and Honors</h2>
 <ul class="skill-list">
-<li>"JPL Voyager Bonus Awards (2024), March 2024.</li>
+<li>"JPL Voyager Bonus Awards" (2024), March 2024.</li>
 <li><i>"Tessera Preziosa del mosaico di Palermo"</i>, recognition for outstanding citizens of Palermo, September 2018.</li>
 </ul>
 
