@@ -20,7 +20,7 @@ layout: page
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Bello-Arufe, A., Yang, J., Hu, R.,
 	    <br /><i>“LHS 1140 b is a potentially habitable water world”</i>, 
-	    <br /><a href="https://arxiv.org/abs/2403.13265">arXiv:2403.13265</a>, Jun 2024.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad5204">ApJL, 968, L22</a>, Jun 2024.
 	    <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Hu, R., Mennesson, B.,
 	    <br /><i>“Reflected spectroscopy of small exoplanets III: probing the UV band to measure biosignature gasses”</i>, 
