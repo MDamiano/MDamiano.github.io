@@ -59,6 +59,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>The JWST Transiting Exoplanet Community Early Release Science Team, 80 co-authors,
+	    <br /><i>"A Benchmark JWST Near-Infrared Spectrum for the Exoplanet WASP-39b"</i>,
+	    <br /><a href="https://www.nature.com/articles/s41550-024-02292-x">Nature</a>, Jul 2024.
+	    <br /><br /></li>
     <li>Hu, R.,  Bello-Arufe, A.,  Zhang, M.,  Paragas, K.,  Zilinskas, M., van Buchem, C.,  Bess, M.,  Patel, J.,  Ito, Y.,  <strong>Damiano, M.</strong>,  Scheucher, M., Oza, A.V.,  Knutson, H.A.,  Miguel, Y.,  Dragomir, D.,  Brandeker, A., Demory, B.O.,
 	    <br /><i>"A secondary atmosphere on the rocky exoplanet 55 Cancri e"</i>,
 	    <br /><a href="https://www.nature.com/articles/s41586-024-07432-x">Nature</a>, May 2024.

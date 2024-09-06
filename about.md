@@ -11,7 +11,7 @@ layout: page
 </ul>
 
 
-<h2>About</h2>
+<h2>About Me</h2>
 <p>Mario Damiano obtained his BSc in physics and MSc degree in astrophysics at the University of Palermo in Italy (UNIPA). Since then, Mario has been studying the atmospheric characteristics of extrasolar planets.</p>
 
 <p>Mario received his Ph.D. at the University College London (UCL). During his Ph.D. he worked on the analysis of data taken from space satellites (e.g., Hubble Space Telescope) and ground facilities (e.g., Very Large Telescope). The Ph.D. was funded by the European Research Council (ERC) and the National Institute of Astrophysics (INAF).</p>
@@ -67,7 +67,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 
 <h2>Awards and Honors</h2>
 <ul class="skill-list">
-<li>"JPL Voyager Bonus Awards" (2024), March 2024.</li>
+<li>"JPL Voyager Bonus Awards" (2024), March and August 2024.</li>
 <li><i>"Tessera Preziosa del mosaico di Palermo"</i>, recognition for outstanding citizens of Palermo, September 2018.</li>
 </ul>
 
