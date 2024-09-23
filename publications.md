@@ -59,6 +59,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Morgan, R., Savransky, D., Turmon, M., <strong>Damiano, M.</strong>, Hu, R., Mennesson, B., Mamajek, E.E., Robinson, T.D., Tokadjian, A.,
+	    <br /><i>"HWO yield sensitivities in the NIR and NUV"</i>,
+	    <br /><a href="https://doi.org/10.1117/12.3020858">SPIE 130925M</a>, Aug 2024.
+	    <br /><br /></li>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 80 co-authors,
 	    <br /><i>"A Benchmark JWST Near-Infrared Spectrum for the Exoplanet WASP-39b"</i>,
 	    <br /><a href="https://www.nature.com/articles/s41550-024-02292-x">Nature</a>, Jul 2024.
