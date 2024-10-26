@@ -18,6 +18,10 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
+    <li><strong>Damiano, M.</strong>, Shaklan, S., Hu, R., Dunne, B., Tanner, A., Nida, A., Carson, J.C., Hildebrandt, S.R., Lisman, D.,
+        <br /><i>“Starshade Exoplanet Data Challenge: what we learned”</i>, 
+        <br /><a href="https://doi.org/10.1117/1.JATIS.10.4.048001">JATIS, Vol. 10, Issue 4, 048001</a>, Oct 2024.
+        <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Bello-Arufe, A., Yang, J., Hu, R.,
 	    <br /><i>“LHS 1140 b is a potentially habitable water world”</i>, 
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad5204">ApJL, 968, L22</a>, Jun 2024.
@@ -59,6 +63,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Tokadjian, A., Hu, R., <strong>Damiano, M.</strong>,
+	    <br /><i>"The Detectability of CH4/CO2/CO and N2O Biosignatures through Reflection Spectroscopy of Terrestrial Exoplanets"</i>,
+	    <br /><a href="http://export.arxiv.org/abs/2410.14848">arXiv</a>, Oct 2024.
+	    <br /><br /></li>
     <li>Morgan, R., Savransky, D., Turmon, M., <strong>Damiano, M.</strong>, Hu, R., Mennesson, B., Mamajek, E.E., Robinson, T.D., Tokadjian, A.,
 	    <br /><i>"HWO yield sensitivities in the NIR and NUV"</i>,
 	    <br /><a href="https://doi.org/10.1117/12.3020858">SPIE 130925M</a>, Aug 2024.
