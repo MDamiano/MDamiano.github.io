@@ -18,6 +18,10 @@ layout: page
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
+    <li><strong>Damiano, M.</strong>, Burr, Z., Hu, R., Burt, J., Kataria, T.,
+        <br /><i>“Effects of planetary mass uncertainties on the interpretation of the reflectance spectra of Earth-like exoplanets”</i>, 
+        <br /><a href="https://arxiv.org/abs/2502.01513">arXiv</a>, Feb 2025. Accepted for publication in AJ.
+        <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Shaklan, S., Hu, R., Dunne, B., Tanner, A., Nida, A., Carson, J.C., Hildebrandt, S.R., Lisman, D.,
         <br /><i>“Starshade Exoplanet Data Challenge: what we learned”</i>, 
         <br /><a href="https://doi.org/10.1117/1.JATIS.10.4.048001">JATIS, Vol. 10, Issue 4, 048001</a>, Oct 2024.
@@ -65,7 +69,7 @@ layout: page
 <ol reversed>
     <li>Tokadjian, A., Hu, R., <strong>Damiano, M.</strong>,
 	    <br /><i>"The Detectability of CH4/CO2/CO and N2O Biosignatures through Reflection Spectroscopy of Terrestrial Exoplanets"</i>,
-	    <br /><a href="http://export.arxiv.org/abs/2410.14848">arXiv</a>, Oct 2024.
+	    <br /><a href="https://doi.org/10.3847/1538-3881/ad88eb">AJ, 168, 292</a>, Dec 2024.
 	    <br /><br /></li>
     <li>Morgan, R., Savransky, D., Turmon, M., <strong>Damiano, M.</strong>, Hu, R., Mennesson, B., Mamajek, E.E., Robinson, T.D., Tokadjian, A.,
 	    <br /><i>"HWO yield sensitivities in the NIR and NUV"</i>,

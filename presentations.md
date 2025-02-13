@@ -14,6 +14,10 @@ layout: page
 	    <br /><i>"Exoplanetary atmospheres revealed through machine learning approaches"</i> 
 	    <br />Pasadena, CA, United States. June 2022.
 	    <br /><br /></li>
+    <li>ExoSS workshop, 
+	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
+	    <br />Pasadena, CA, United States. May 2022.
+	    <br /><br /></li>
     <li>IPAC, California Institute of Technology,
 	    <br /><i>"Unravel the nature of exoplanetary atmospheres through spectroscopic characterization"</i> 
 	    <br />Pasadena, CA, United States. July 2021.
@@ -39,13 +43,13 @@ layout: page
 <h2>Oral presentations</h2>
 
 <ul class="skill-list">
+    <li>245<sup>th</sup> American Astronomical Society (AAS) meeting, 
+	    <br /><i>"LHS1140 b is a potentially habitable water world"</i>
+	    <br />National Harbor, MD, United States. Jan 2025.
+	    <br /><br /></li>
     <li>241<sup>st</sup> American Astronomical Society (AAS) meeting, 
 	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
 	    <br />Seattle, WA, United States. Jan 2023.
-	    <br /><br /></li>
-    <li>ExoSS workshop, 
-	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
-	    <br />Pasadena, CA, United States. May 2022.
 	    <br /><br /></li>
     <li>Astrobiology Science Conference (AbSciCon), 
 	    <br /><i>"Atmospheric characterization of temperate rocky planets through reflection spectroscopy"</i>
