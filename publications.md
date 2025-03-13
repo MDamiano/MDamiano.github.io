@@ -20,7 +20,7 @@ layout: page
 <ol reversed>
     <li><strong>Damiano, M.</strong>, Burr, Z., Hu, R., Burt, J., Kataria, T.,
         <br /><i>“Effects of planetary mass uncertainties on the interpretation of the reflectance spectra of Earth-like exoplanets”</i>, 
-        <br /><a href="https://arxiv.org/abs/2502.01513">arXiv</a>, Feb 2025. Accepted for publication in AJ.
+        <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ada610">AJ, 169, 97</a>, Feb 2025.
         <br /><br /></li>
     <li><strong>Damiano, M.</strong>, Shaklan, S., Hu, R., Dunne, B., Tanner, A., Nida, A., Carson, J.C., Hildebrandt, S.R., Lisman, D.,
         <br /><i>“Starshade Exoplanet Data Challenge: what we learned”</i>, 
@@ -67,6 +67,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+    <li>Bello-Arufe, A., <strong>Damiano, M.</strong>, Bennett, K.A., Hu, R., Welbanks, L., MacDonald, R.J., Seligman, D.Z., Sing, D.K., Tokadjian, A., Oza, A.V., Yang, J.,
+	    <br /><i>"Evidence for a Volcanic Atmosphere on the Sub-Earth L 98-59 b"</i>,
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/adaf22">ApJ, 980L, 26</a>, Feb 2025.
+	    <br /><br /></li>
     <li>Tokadjian, A., Hu, R., <strong>Damiano, M.</strong>,
 	    <br /><i>"The Detectability of CH4/CO2/CO and N2O Biosignatures through Reflection Spectroscopy of Terrestrial Exoplanets"</i>,
 	    <br /><a href="https://doi.org/10.3847/1538-3881/ad88eb">AJ, 168, 292</a>, Dec 2024.
