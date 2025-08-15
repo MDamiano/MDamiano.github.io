@@ -67,6 +67,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+	<li>Barclay, T., Sheppard, K. B., Latouf, N.,  Mandell, A. M., Quintana, E. V., Gilbert, E. A., Liuzzi, G., Villanueva, G. L., Arney, G., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., <strong>Damiano, M.</strong> Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Hedges, C. L., Hu, R., Kite, E. S., Koll, D., Kopparapu, R. K., Kostov, V. B., Kreidberg, L., Lopez, E. D., Mang, J., Morley, C. V., Mullally, F., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Vega, L. D., Youngblood, A., Zieba, S.,
+		<br /><i>"The transmission spectrum of the potentially rocky planet L 98-59 c"</i>,
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ada5f6">AJ, 169, 241</a>, Apr 2025.
+	    <br /><br /></li>
     <li>Bello-Arufe, A., <strong>Damiano, M.</strong>, Bennett, K.A., Hu, R., Welbanks, L., MacDonald, R.J., Seligman, D.Z., Sing, D.K., Tokadjian, A., Oza, A.V., Yang, J.,
 	    <br /><i>"Evidence for a Volcanic Atmosphere on the Sub-Earth L 98-59 b"</i>,
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/adaf22">ApJ, 980L, 26</a>, Feb 2025.
@@ -98,10 +102,6 @@ layout: page
     <li>Ahmed, Z., D'Amico, S., Hu, R., <strong>Damiano, M.</strong>,
 	    <br /><i>"Exoplanet Detection from Starshade Images using Convolutional Neural Networks"</i>,
 	    <br /><a href="http://dx.doi.org/10.1117/12.2676600">SPIE 1268028</a>, Oct 2023.
-	    <br /><br /></li>
-    <li>Barclay, T., Sheppard, K. B., Latouf, N.,  Mandell, A. M., Quintana, E. V., Gilbert, E. A., Liuzzi, G., Villanueva, G. L., Arney, G., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., <strong>Damiano, M.</strong> Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Hedges, C. L., Hu, R., Kite, E. S., Koll, D., Kopparapu, R. K., Kostov, V. B., Kreidberg, L., Lopez, E. D., Mang, J., Morley, C. V., Mullally, F., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Vega, L. D., Youngblood, A., Zieba, S.,
-	    <br /><i>"The transmission spectrum of the potentially rocky planet L 98-59 c"</i>,
-	    <br /><a href="https://arxiv.org/abs/2301.10866">arXiv:2301.10866</a>, Jan 2023.
 	    <br /><br /></li>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 92 co-authors,
 	    <br /><i>"Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H"</i>,
