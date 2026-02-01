@@ -15,6 +15,8 @@ layout: page
 <a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=author%3A%22Damiano%2C%20Mario%22&sort=date%20desc%2C%20bibcode%20desc" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7oeBd-zcmgFP18z1PpqppgLY0FqPvqD0H9R1Q6zMXVBW-GRF" height=" 60" width=" 70" title="Google Scholar" /></a>
 </p></center>
 
+27 refereed publications, 11 first-author papers, h-index = 21 (using Google Scholar)
+
 <h2>First author peer-reviewed papers</h2>
 
 <ol reversed>
@@ -67,21 +69,29 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+	<li>Bello-Arufe, A., Hu, R., Zilinskas, M., Yang, J., Tokadjian, A., Welbanks, L., Fu, G., Greklek-McKeon, M.,  <strong>Damiano, M.</strong>, Gomez Barrientos, J., Knutson, H.,A. Sing, D.K., Zhang, X.,
+	    <br /><i>"Methane on the temperate exo-Saturn TOI-199b"</i>,
+	    <br /><a href="https://arxiv.org/abs/2511.15835">arXiv, 2511.15835</a>, Nov 2025.
+	    <br /><br /></li>
+	<li>Oza, A.V., Gebek, A., Meyer zu Westram, M., Tokadjian, A., Piro, A.L., Hu, R., Unni, A., Chari, R., Bello-Arufe, A., Schmidt, C.A., Louca, A.J., Miguel, Y., Estrela, R., Yang, J., <strong>Damiano, M.</strong>, Hasegawa, Y., Welbanks, L., Powell, D., Garg, R., Gupta, P., Yung, Y.L., Lopes, R.M.C.,
+	    <br /><i>"Volcanic satellites tidally venting Na, K, and SO2 in optical and infrared light"</i>,
+	    <br /><a href="https://academic.oup.com/mnras/article/546/1/staf1526/8263929">MNRAS, 546, 1</a>, Sep 2025.
+	    <br /><br /></li>
+	<li>Hu, R., Bello-Arufe, A., Tokadjian, A., Yang, J., <strong>Damiano, M.</strong>, Roy, P-A., Coulombe, L-P., Madhusudhan, N., Constantinou, S., Benneke, B.,
+	    <br /><i>"A water-rich interior in the temperate sub-Neptune K2-18 b revealed by JWST"</i>,
+	    <br /><a href="https://arxiv.org/abs/2507.12622">arXiv, 2507.12622</a>, Jul 2025.
+	    <br /><br /></li>
 	<li>Barclay, T., Sheppard, K. B., Latouf, N.,  Mandell, A. M., Quintana, E. V., Gilbert, E. A., Liuzzi, G., Villanueva, G. L., Arney, G., Brande, J., Colón, K. D., Covone, G., Crossfield, I. J. M., <strong>Damiano, M.</strong> Domagal-Goldman, S. D., Fauchez, T. J., Fiscale, S., Gallo, F., Hedges, C. L., Hu, R., Kite, E. S., Koll, D., Kopparapu, R. K., Kostov, V. B., Kreidberg, L., Lopez, E. D., Mang, J., Morley, C. V., Mullally, F., Mullally, S. E., Pidhorodetska, D., Schlieder, J. E., Vega, L. D., Youngblood, A., Zieba, S.,
 		<br /><i>"The transmission spectrum of the potentially rocky planet L 98-59 c"</i>,
 	    <br /><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ada5f6">AJ, 169, 241</a>, Apr 2025.
 	    <br /><br /></li>
     <li>Bello-Arufe, A., <strong>Damiano, M.</strong>, Bennett, K.A., Hu, R., Welbanks, L., MacDonald, R.J., Seligman, D.Z., Sing, D.K., Tokadjian, A., Oza, A.V., Yang, J.,
 	    <br /><i>"Evidence for a Volcanic Atmosphere on the Sub-Earth L 98-59 b"</i>,
-	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/adaf22">ApJ, 980L, 26</a>, Feb 2025.
+	    <br /><a href="https://iopscience.iop.org/article/10.3847/2041-8213/adaf22">ApJL, 980, L26</a>, Feb 2025.
 	    <br /><br /></li>
     <li>Tokadjian, A., Hu, R., <strong>Damiano, M.</strong>,
 	    <br /><i>"The Detectability of CH4/CO2/CO and N2O Biosignatures through Reflection Spectroscopy of Terrestrial Exoplanets"</i>,
 	    <br /><a href="https://doi.org/10.3847/1538-3881/ad88eb">AJ, 168, 292</a>, Dec 2024.
-	    <br /><br /></li>
-    <li>Morgan, R., Savransky, D., Turmon, M., <strong>Damiano, M.</strong>, Hu, R., Mennesson, B., Mamajek, E.E., Robinson, T.D., Tokadjian, A.,
-	    <br /><i>"HWO yield sensitivities in the NIR and NUV"</i>,
-	    <br /><a href="https://doi.org/10.1117/12.3020858">SPIE 130925M</a>, Aug 2024.
 	    <br /><br /></li>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 80 co-authors,
 	    <br /><i>"A Benchmark JWST Near-Infrared Spectrum for the Exoplanet WASP-39b"</i>,
@@ -90,18 +100,6 @@ layout: page
     <li>Hu, R.,  Bello-Arufe, A.,  Zhang, M.,  Paragas, K.,  Zilinskas, M., van Buchem, C.,  Bess, M.,  Patel, J.,  Ito, Y.,  <strong>Damiano, M.</strong>,  Scheucher, M., Oza, A.V.,  Knutson, H.A.,  Miguel, Y.,  Dragomir, D.,  Brandeker, A., Demory, B.O.,
 	    <br /><i>"A secondary atmosphere on the rocky exoplanet 55 Cancri e"</i>,
 	    <br /><a href="https://www.nature.com/articles/s41586-024-07432-x">Nature</a>, May 2024.
-	    <br /><br /></li>
-    <li>Savransky, D., Knight, R., Turmon, M., Spohn, C., Morgan, R., <strong>Damiano, M.</strong>, Genszler, G., Kulik, J.,
-	    <br /><i>"Quantifying the impacts of schedulability on science yield of exoplanet imaging missions"</i>,
-	    <br /><a href="http://dx.doi.org/10.1117/12.2677102">SPIE 126801K</a>, Oct 2023.
-	    <br /><br /></li>
-    <li>Morgan, R., Savransky, D., <strong>Damiano, M.</strong>, Lisman, D., Mennesson, B., Mamajek, E. E., Robinson, T. D., Turmon, M.,
-	    <br /><i>"Exo-Earth yield of a 6m space telescope in the near-infrared"</i>,
-	    <br /><a href="http://dx.doi.org/10.1117/12.2677785">SPIE 126801L</a>, Oct 2023.
-	    <br /><br /></li>
-    <li>Ahmed, Z., D'Amico, S., Hu, R., <strong>Damiano, M.</strong>,
-	    <br /><i>"Exoplanet Detection from Starshade Images using Convolutional Neural Networks"</i>,
-	    <br /><a href="http://dx.doi.org/10.1117/12.2676600">SPIE 1268028</a>, Oct 2023.
 	    <br /><br /></li>
     <li>The JWST Transiting Exoplanet Community Early Release Science Team, 92 co-authors,
 	    <br /><i>"Early Release Science of the Exoplanet WASP-39b with JWST NIRSpec G395H"</i>,
@@ -143,4 +141,32 @@ layout: page
 	    <br /><i>“A New Approach to Analyzing HST Spatial Scans: The Transmission Spectrum of HD 209458 b”</i>, 
 	    <br /><a href="https://doi.org/10.3847/0004-637X/832/2/202">ApJ, 832, 202</a>, Dec 2016.
 	    <br /><br /></li>
+</ol>
+
+<h2>Conference Proceedings and White Papers</h2>
+<ol reversed>
+	<li>Min, M., Barstow, J., Mayorga, L.C., Wakeford, H., Wang, J., Hu, R., Biller, B., Caballero, J.A., Carone, L., Casewell, S., Chubb, K.L., <strong>Damiano, M.</strong>, Gandhi, S., Garcia-Munoz, A., Helling, C., Keller, F., Lowson, N., Nasedkin, E., MacDonald, R., Ruffio, J.B., Shkolnik, E., Stark, C.C.,
+			<br /><i>"Direct imaging characterization of cool gaseous planets"</i>,
+			<br /><a href="https://arxiv.org/abs/2512.13766">arXiv, 2512.13766</a>, Dec 2025.
+			<br /><br /></li>
+	<li>Hu, R., Min, M., Millar-Blanchaer M., Lustig-Yaeger, J., Robinson, T., Burt, J., Coustenis, A., <strong>Damiano, M.</strong>, Dong, C., Dressing, C., Fossati, L., Kane, S., Kelkar, S., Lichtenberg, T., Ruffio, J.B., Sur, D., Tokadjian, A., Turbet, M.,
+	    <br /><i>"Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets with the Habitable Worlds Observatory"</i>,
+	    <br /><a href="https://arxiv.org/abs/2509.16798">arXiv, 2509.16798</a>, Sep 2025.
+	    <br /><br /></li>
+    <li>Morgan, R., Savransky, D., Turmon, M., <strong>Damiano, M.</strong>, Hu, R., Mennesson, B., Mamajek, E.E., Robinson, T.D., Tokadjian, A.,
+	    <br /><i>"HWO yield sensitivities in the NIR and NUV"</i>,
+	    <br /><a href="https://doi.org/10.1117/12.3020858">SPIE 130925M</a>, Aug 2024.
+	    <br /><br /></li>
+    <li>Savransky, D., Knight, R., Turmon, M., Spohn, C., Morgan, R., <strong>Damiano, M.</strong>, Genszler, G., Kulik, J.,
+	    <br /><i>"Quantifying the impacts of schedulability on science yield of exoplanet imaging missions"</i>,
+	    <br /><a href="http://dx.doi.org/10.1117/12.2677102">SPIE 126801K</a>, Oct 2023.
+	    <br /><br /></li>
+    <li>Morgan, R., Savransky, D., <strong>Damiano, M.</strong>, Lisman, D., Mennesson, B., Mamajek, E. E., Robinson, T. D., Turmon, M.,
+	    <br /><i>"Exo-Earth yield of a 6m space telescope in the near-infrared"</i>,
+	    <br /><a href="http://dx.doi.org/10.1117/12.2677785">SPIE 126801L</a>, Oct 2023.
+	    <br /><br /></li>
+	<li>Ahmed, Z., D'Amico, S., Hu, R., <strong>Damiano, M.</strong>,
+		<br /><i>"Exoplanet Detection from Starshade Images using Convolutional Neural Networks"</i>,
+		<br /><a href="http://dx.doi.org/10.1117/12.2676600">SPIE 1268028</a>, Oct 2023.
+		<br /><br /></li>
 </ol>

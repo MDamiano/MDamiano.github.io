@@ -1,0 +1,36 @@
+---
+title: ExoReL - Bayesian retrieval of exoplanet reflected-light and thermal emission spectra
+layout: post
+date: 2026-01-31 16:40
+titleImageMaxHeight: "300px; display: block; margin: 0 auto"
+image: https://raw.githubusercontent.com/MDamiano/ExoReL/refs/heads/main/ExoReL_logo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Bayesian retrieval framework for reflected-light spectroscopy of exoplanet atmospheres."
+category: project
+author: Mario Damiano
+externalLink: false
+---
+
+ExoReL (Exoplanetary Reflected Light Retrieval) is a Bayesian retrieval
+framework for interpreting reflected-light and thermal emission spectra of directly imaged
+exoplanets. It was introduced to support high-contrast imaging missions such as
+WFIRST, HabEx, and LUVOIR, and it retrieves atmospheric structure and cloud
+properties from reflected-light and thermal emission spectra using a physically consistent treatment
+of clouds and gas mixing ratios.
+
+Project repository: [github.com/MDamiano/ExoReL](https://github.com/MDamiano/ExoReL).
+
+## Capabilities
+ExoReL is a Bayesian atmospheric retrieval framework built to infer atmospheric and planetary properties from reflected-light and thermal-emission spectra by explicitly coupling statistical inference to a physically detailed forward model. In the research statement, ExoReL is described as a mature, open-source tool written in Python and C that computes posterior probability distributions over parameters relevant to direct imaging—atmospheric composition, cloud properties, surface type, and pressure–temperature structure—across targets spanning Jupiter- to Earth-sized planets, with a layer-by-layer radiative-transfer and energy-balance treatment that tracks absorption, scattering, and emission through the atmosphere and, for rocky worlds, includes sensitivity to the surface.
+
+A distinctive “retrieval-first” strength of ExoReL is that it was designed to keep cloud physics and chemistry causally tied to gas profiles rather than treating clouds as purely free nuisance parameters. The original ExoReL formulation assumes vertically non-uniform mixing-ratio profiles for condensing species (e.g., H2O and NH3) and uses them to construct cloud densities so that cloud location and cloud “identity” remain consistent with the inferred atmospheric state, enabling inferences about gases below cloud decks that are not directly visible in the reflected spectrum.
+
+ExoReL is positioned as an analysis engine informing Habitable Worlds Observatory science requirements and observing strategies—these results collectively support a concrete message for your blog: ExoReL’s value is not only that it retrieves posteriors, but that it exposes where band-limited observations can become confidently wrong, and it quantifies which added wavelengths buy back correctness for realistic (non–modern-Earth) terrestrial scenarios.
+
+## References
+1. Damiano, M., Hu, R. (2022). "Reflected spectroscopy of small exoplanets II:
+   characterization of terrestrial exoplanets." AJ, 163, 299.
+2. Damiano, M., Hu, R. (2020). "ExoReL^R: a Bayesian inverse retrieval framework
+   for exoplanetary reflected light spectra." AJ, 159, 175.

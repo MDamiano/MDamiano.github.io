@@ -1,0 +1,21 @@
+# Jekyll build output and cache
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# Ruby artifacts
+*.gem
+*.log
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Env files
+.env

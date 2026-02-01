@@ -30,7 +30,7 @@ layout: page
 
 <h2>Professional experience</h2>
 <ul class="skill-list">
-    <li><strong>Scientist & Data Scientist</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. October 2022 - today.</li>
+    <li><strong>Research Scientist & Data Scientist</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. October 2022 - today.</li>
 	<li><strong>JPL Postdoctoral Fellow</strong>, NASA / Jet Propulsion Laboratory – California Institute of Technology. CA, United States. November 2018 - October 2022.</li>
 	<li><strong>Research Associate</strong>, National Institute of Astrophysics Palermo Observatory (INAF-OAPa). Palermo, Italy. December 2015 - December 2020.</li>
 </ul>
@@ -67,7 +67,7 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
 
 <h2>Awards and Honors</h2>
 <ul class="skill-list">
-<li>"JPL Voyager Bonus Awards" (2024), March and August 2024.</li>
+<li>"JPL Voyager Bonus Awards", two in 2024 and one in 2025.</li>
 <li><i>"Tessera Preziosa del mosaico di Palermo"</i>, recognition for outstanding citizens of Palermo, September 2018.</li>
 </ul>
 
@@ -86,10 +86,4 @@ high-resolution spectral data analysis, machine learning, spectroscopy.
       <li>Other: LaTeX (excellent), Apple softwares (excellent), Microsoft Office (excellent).</li>
     </ul>
   </li>
-</ul>
-
-<h2>External personal pages</h2>
-
-<ul class="skill-list">
-	<li><a href="https://science.jpl.nasa.gov/people/Damiano/">NASA / Jet Propulsion Laboratory - Caltech | Mario Damiano's page</a></li>
 </ul>
