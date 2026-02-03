@@ -11,6 +11,7 @@ description: "Bayesian retrieval framework for reflected-light spectroscopy of e
 category: project
 author: Mario Damiano
 externalLink: false
+shareTwitter: false
 ---
 
 ExoReL (Exoplanetary Reflected Light Retrieval) is a Bayesian retrieval
