@@ -5,9 +5,8 @@ layout: page
 
 <h2>Contact</h2>
 <ul class="skill-list">
-	<li><u>Address</u>:  4800 Oak Grove Dr, M/S 158-222D, 91109, Pasadena, CA, United States</li>
-	<li><u>Mobile</u>:   +1 (818) 928-9338</li>
-	<li><u>Mail</u>:     mario.damiano@jpl.nasa.gov</li>
+	<li><u>Address</u>:  Pasadena, CA, United States</li>
+	<li><u>Mail</u>:     mdamiano91@gmail.com</li>
 </ul>
 
 

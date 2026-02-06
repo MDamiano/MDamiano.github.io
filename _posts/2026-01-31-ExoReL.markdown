@@ -1,7 +1,6 @@
 ---
 title: Bayesian retrieval of exoplanet reflected-light and thermal emission spectra
 layout: post
-date: 2026-01-31 16:40
 titleImageMaxHeight: "300px; display: block; margin: 0 auto"
 image: https://raw.githubusercontent.com/MDamiano/ExoReL/refs/heads/main/ExoReL_logo.png
 projectImage: https://raw.githubusercontent.com/MDamiano/ExoReL/refs/heads/main/ExoReL_logo.png
