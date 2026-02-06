@@ -3,13 +3,6 @@ title: About Me
 layout: page
 ---
 
-<h2>Contact</h2>
-<ul class="skill-list">
-	<li><u>Address</u>:  Pasadena, CA, United States</li>
-	<li><u>Mail</u>:     mdamiano91@gmail.com</li>
-</ul>
-
-
 <h2>About Me</h2>
 <p>Mario Damiano obtained his BSc in physics and MSc degree in astrophysics at the University of Palermo in Italy (UNIPA). Since then, Mario has been studying the atmospheric characteristics of extrasolar planets.</p>
 
