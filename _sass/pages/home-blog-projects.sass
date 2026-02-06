@@ -72,3 +72,27 @@
         position: relative
         top: -4px
         margin-right: 10px
+
+.projects > .list > .item > .url
+    display: flex
+    align-items: center
+    gap: 16px
+
+    > .project-image
+        width: 160px
+        height: 160px
+        object-fit: contain
+        flex-shrink: 0
+
+    > .title
+        display: block
+        width: auto
+        line-height: 1.35
+
+@media #{$mobile}
+    .projects > .list > .item > .url
+        gap: 12px
+
+        > .project-image
+            width: 140px
+            height: 140px

@@ -1,9 +1,12 @@
 ---
-title: ExoReL - Bayesian retrieval of exoplanet reflected-light and thermal emission spectra
+title: Bayesian retrieval of exoplanet reflected-light and thermal emission spectra
 layout: post
 date: 2026-01-31 16:40
 titleImageMaxHeight: "300px; display: block; margin: 0 auto"
 image: https://raw.githubusercontent.com/MDamiano/ExoReL/refs/heads/main/ExoReL_logo.png
+projectImage: https://raw.githubusercontent.com/MDamiano/ExoReL/refs/heads/main/ExoReL_logo.png
+projectImageAlt: ExoReL logo
+projectTitle: Bayesian retrieval of exoplanet reflected-light and thermal emission spectra
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -17,7 +20,7 @@ shareTwitter: false
 ExoReL (Exoplanetary Reflected Light Retrieval) is a Bayesian retrieval
 framework for interpreting reflected-light and thermal emission spectra of directly imaged
 exoplanets. It was introduced to support high-contrast imaging missions such as
-WFIRST, HabEx, and LUVOIR, and it retrieves atmospheric structure and cloud
+Roman, HabEx, and LUVOIR, and to support the development of the Habitable Worlds Observatory. It retrieves atmospheric structure and cloud
 properties from reflected-light and thermal emission spectra using a physically consistent treatment
 of clouds and gas mixing ratios.
 
