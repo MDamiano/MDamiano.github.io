@@ -865,6 +865,30 @@ pre {
   margin: 0 auto;
   display: block; }
 
+.external-databases {
+  margin: 1rem 0 2rem;
+  text-align: center; }
+  .external-databases .external-databases__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.9rem 3.1rem;
+    margin-top: 1rem; }
+  .external-databases .external-databases__item {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none; }
+    .external-databases .external-databases__item img {
+      width: 60px;
+      height: 60px;
+      display: block;
+      object-fit: contain; }
+  .external-databases .external-databases__label {
+    margin-top: 0.55rem;
+    font-size: 1.02rem;
+    line-height: 1.2; }
+
 .post {
   margin-top: 125px; }
   .post > .title {
@@ -1561,15 +1585,16 @@ pre {
 
 <h1>Publications</h1>
 
-<center><strong>External databases:</strong> 
-
-<p>
-<a href="https://arxiv.org/search/?searchtype=author&amp;query=Damiano%2C+M" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvibDYTWDou1-p1oSjDglGCCgKMXYgqm6eQyqcXrV8iIiw69Ka" height=" 60" width=" 60" title="ArXiv" /></a>
-<a href="https://orcid.org/0000-0002-1830-8260" target="_blank"><img src="https://s3-eu-west-1.amazonaws.com/ppreviews-orcid-012943482134916/8439047/thumb.png" height=" 60" width=" 60" title="ORCID" /></a>
-<a href="https://www.researchgate.net/profile/Mario_Damiano2" target="_blank"><img src="https://www.researchgate.net/favicon-96x96.png" height=" 60" width=" 60" title="ResearchGate" /></a>
-<a href="https://scholar.google.co.uk/citations?hl=en&amp;user=UQIVvi0AAAAJ&amp;view_op=list_works&amp;gmla=AJsN-F4k2qktMtIOVyu11XecYm54E4SCf8bNBsGlzsYQH9MIzTlvyUJvptL-WXPp6eXCerC5fo12OewI4n4EvkGc4bq-cnEPpfENDr7O5XzwLSOO3XQrYAY" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png?20200110094142" height=" 60" width=" 60" title="Google Scholar" /></a>
-<a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&amp;filter_database_fq_database=database%3A%22astronomy%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&amp;fq_database=(database%3A%22astronomy%22)&amp;p_=0&amp;q=author%3A%22Damiano%2C%20Mario%22&amp;sort=date%20desc%2C%20bibcode%20desc" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7oeBd-zcmgFP18z1PpqppgLY0FqPvqD0H9R1Q6zMXVBW-GRF" height=" 60" width=" 70" title="Google Scholar" /></a>
-</p></center>
+<div class="external-databases">
+<strong>External databases:</strong>
+<div class="external-databases__list">
+<a href="https://arxiv.org/search/?searchtype=author&amp;query=Damiano%2C+M" target="_blank" class="external-databases__item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvibDYTWDou1-p1oSjDglGCCgKMXYgqm6eQyqcXrV8iIiw69Ka" alt="arXiv logo" title="arXiv" /><span class="external-databases__label">arXiv</span></a>
+<a href="https://orcid.org/0000-0002-1830-8260" target="_blank" class="external-databases__item"><img src="https://s3-eu-west-1.amazonaws.com/ppreviews-orcid-012943482134916/8439047/thumb.png" alt="ORCID logo" title="ORCID" /><span class="external-databases__label">ORCID</span></a>
+<a href="https://www.researchgate.net/profile/Mario_Damiano2" target="_blank" class="external-databases__item"><img src="https://www.researchgate.net/favicon-96x96.png" alt="Research Gate logo" title="Research Gate" /><span class="external-databases__label">Research Gate</span></a>
+<a href="https://scholar.google.co.uk/citations?hl=en&amp;user=UQIVvi0AAAAJ&amp;view_op=list_works&amp;gmla=AJsN-F4k2qktMtIOVyu11XecYm54E4SCf8bNBsGlzsYQH9MIzTlvyUJvptL-WXPp6eXCerC5fo12OewI4n4EvkGc4bq-cnEPpfENDr7O5XzwLSOO3XQrYAY" target="_blank" class="external-databases__item"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png?20200110094142" alt="Google Scholar logo" title="Google Scholar" /><span class="external-databases__label">Google Scholar</span></a>
+<a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&amp;filter_database_fq_database=database%3A%22astronomy%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&amp;fq_database=(database%3A%22astronomy%22)&amp;p_=0&amp;q=author%3A%22Damiano%2C%20Mario%22&amp;sort=date%20desc%2C%20bibcode%20desc" target="_blank" class="external-databases__item"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7oeBd-zcmgFP18z1PpqppgLY0FqPvqD0H9R1Q6zMXVBW-GRF" alt="NASA ADS logo" title="NASA ADS" /><span class="external-databases__label">NASA ADS</span></a>
+</div>
+</div>
 
 <p>27 refereed publications, 11 first-author papers, h-index = 21 (using Google Scholar)</p>
 
