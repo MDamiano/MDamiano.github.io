@@ -1,0 +1,29 @@
+---
+title: Bayesian retrieval of exoplanetary transmission spectra
+layout: post
+date: 2026-01-30 00:00:00 +0000
+titleImageMaxHeight: "300px; display: block; margin: 0 auto"
+image: https://raw.githubusercontent.com/MDamiano/ExoTR/refs/heads/main/ExoTR_logo.jpg
+projectImage: https://raw.githubusercontent.com/MDamiano/ExoTR/refs/heads/main/ExoTR_logo.jpg
+projectImageAlt: ExoTR logo
+projectTitle: Bayesian retrieval of exoplanetary transmission spectra
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Open-source Bayesian retrieval framework for exoplanetary transmission spectra."
+category: project
+author: Mario Damiano
+externalLink: false
+shareTwitter: false
+---
+
+ExoTR (Exoplanetary Transmission Retrieval) is an open-source Bayesian atmospheric
+retrieval framework for interpreting exoplanet transmission spectra. It combines a
+forward model of planetary atmospheres with Bayesian inference to estimate
+atmospheric properties from observed spectra, enabling robust constraints on
+composition and structure.
+
+Project repository: [github.com/MDamiano/ExoTR](https://github.com/MDamiano/ExoTR).
+
+## Reference
+1. Damiano, M., et al. (2024). "LHS 1140 b is a potentially habitable water world" ApJL, 968, L22.
