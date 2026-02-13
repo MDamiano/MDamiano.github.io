@@ -16,7 +16,7 @@ layout: page
 </div>
 </div>
 
-27 refereed publications, 11 first-author papers, h-index = 21 (using Google Scholar)
+28 refereed publications, 11 first-author papers, h-index = 21 (using Google Scholar)
 
 <h2>First author peer-reviewed papers</h2>
 
@@ -70,6 +70,10 @@ layout: page
 <h2>Co-author</h2>
 
 <ol reversed>
+	<li>Juanola-Parramon, R., Chen, P., <strong>Damiano, M.</strong>, Gersh-Range, J., Groff, T., Kasdin, J., Korzh, B., Krist, J., Mamajek, E., Mazin, B., Morgan, R., Potier, A., Pueyo, L., Quijada, M., Sadleir, J., Scowen, P., Stapelfeldt, K., Stark, C., Siegler, N., Young, A., Zimmerman, N.,
+	    <br /><i>"Toward a near-ultraviolet coronagraph instrument for the Habitable Worlds Observatory"</i>,
+	    <br /><a href="https://doi.org/10.1117/1.JATIS.12.1.015005">JATIS, Vol. 12, Issue 1, 015005</a>, Feb 2026.
+	    <br /><br /></li>
 	<li>Bello-Arufe, A., Hu, R., Zilinskas, M., Yang, J., Tokadjian, A., Welbanks, L., Fu, G., Greklek-McKeon, M.,  <strong>Damiano, M.</strong>, Gomez Barrientos, J., Knutson, H.,A. Sing, D.K., Zhang, X.,
 	    <br /><i>"Methane on the temperate exo-Saturn TOI-199b"</i>,
 	    <br /><a href="https://arxiv.org/abs/2511.15835">arXiv, 2511.15835</a>, Nov 2025.
