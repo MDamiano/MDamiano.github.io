@@ -8,7 +8,7 @@ layout: page
 
 <p>Mario received his Ph.D. at the University College London (UCL). During his Ph.D. he worked on the analysis of data taken from space satellites (e.g., Hubble Space Telescope) and ground facilities (e.g., Very Large Telescope). The Ph.D. was funded by the European Research Council (ERC) and the National Institute of Astrophysics (INAF).</p>
 
-<p>Since 2018, he is employed at the Jet Propulsion Laboratory (NASA/JPL). Mario performs data analysis (of HST and JWST observations) to study and to interpret the spectroscopic characteristics of exoplanetary atmospheres to unveil atmospheric composition and dynamics of these alien worlds. In particular, he focuses on the development of Bayesian retrieval frameworks that can extract information form exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is exploring the possibilities of implementing such powerful algorithms into his research.</p>
+<p>Since 2018, he is employed at the Jet Propulsion Laboratory (NASA/JPL). Mario performs data analysis (of HST and JWST observations) to study and to interpret the spectroscopic characteristics of exoplanetary atmospheres to unveil atmospheric composition and dynamics of these alien worlds. In particular, he focuses on the development of Bayesian retrieval frameworks that can extract information from exoplanetary reflected light spectra. Mario is also an enthusiast of deep learning and AI, and he is exploring the possibilities of implementing such powerful algorithms into his research.</p>
 
 <h2>Research interests</h2>
 <ul class="skill-list">
@@ -17,7 +17,7 @@ layout: page
 	<li>Implementation of inverse information extraction techniques via Bayesian statistics.</li>
 	<li>Automation of data evaluation processes leveraging Machine Learning (ML) algorithms.</li>
     <li>Formulation of comprehensive pipelines for streamlined data analysis.</li>
-    <li>echnical and scientific interpretation of data patterns and model predictions.</li>
+    <li>Technical and scientific interpretation of data patterns and model predictions.</li>
 </ul>
 
 <h2>Professional experience</h2>
@@ -33,7 +33,7 @@ layout: page
 <br />December 2015 – January 2019
 <br />Department of Physics and Astronomy, University College London, United Kingdom.
 <br />Thesis title: <i>"From space to ground: planetary atmospheres revealed through a machine learning approach"</i>.
-<br />Subjects: Transmission spectroscopy of exoplanets with the HST/WFC3 camera, data analysis, atmoshperic retrievals, 
+<br />Subjects: Transmission spectroscopy of exoplanets with the HST/WFC3 camera, data analysis, atmospheric retrievals, 
 high-resolution spectral data analysis, machine learning, spectroscopy.
 <br />Supervisors: Prof. Giovanna Tinetti, Dr. Giuseppina Micela, and Dr. Ingo P. Waldmann.</p></li>
 	<li><p>MSc in Physics

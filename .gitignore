@@ -14,6 +14,7 @@ vendor/bundle/
 
 # OS and editor files
 .DS_Store
+**/.DS_Store
 .idea/
 .vscode/
 

@@ -18,3 +18,5 @@ Project-specific guidance for coding agents working in this repository.
 ## Validation
 - Run `bundle exec jekyll build` after content or template changes.
 - Check generated output in `_site/` when layout or styling changes.
+- If fails occurs, show it loudly with clear error logs over failing silently with hidden fallbacks.
+- when a unit test fails, first ask yourself: is this exposing a real bug in the production code — or is the test itself flawed?
