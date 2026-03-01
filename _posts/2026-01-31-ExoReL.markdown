@@ -11,7 +11,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Bayesian retrieval framework for reflected-light spectroscopy of exoplanet atmospheres."
 category: project
-author: Mario Damiano
+author: johndoe
 externalLink: false
 shareTwitter: false
 ---

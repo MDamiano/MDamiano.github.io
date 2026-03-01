@@ -132,7 +132,7 @@ layout: page
 	    <br /><br /></li>
 	<li>Tinetti, G., plus 242 co-authors,
 	    <br /><i>"A chemical survey of exoplanets with ARIEL"</i>,
-	    <br /><a href="https://dx.doi.org/10.1007/s10686-018-9598-x">Exp Astron 46, 135</a>, Sep 2018.
+	    <br /><a href="https://doi.org/10.1007/s10686-018-9598-x">Exp Astron 46, 135</a>, Sep 2018.
 	    <br /><br /></li>
 	<li>Tsiaras, A., Waldmann, I. P., Zingales, T., Rocchetto, M., Morello, G., <strong>Damiano, M.</strong>, Karpouzas, K., Tinetti, G., McKemmish, L. K., Tennyson, J., and Yurchenko, S. N., 
 	    <br /><i>“A Population Study of Gaseous Exoplanets”</i>, 
@@ -164,14 +164,14 @@ layout: page
 	    <br /><br /></li>
     <li>Savransky, D., Knight, R., Turmon, M., Spohn, C., Morgan, R., <strong>Damiano, M.</strong>, Genszler, G., Kulik, J.,
 	    <br /><i>"Quantifying the impacts of schedulability on science yield of exoplanet imaging missions"</i>,
-	    <br /><a href="http://dx.doi.org/10.1117/12.2677102">SPIE 126801K</a>, Oct 2023.
+	    <br /><a href="https://doi.org/10.1117/12.2677102">SPIE 126801K</a>, Oct 2023.
 	    <br /><br /></li>
     <li>Morgan, R., Savransky, D., <strong>Damiano, M.</strong>, Lisman, D., Mennesson, B., Mamajek, E. E., Robinson, T. D., Turmon, M.,
 	    <br /><i>"Exo-Earth yield of a 6m space telescope in the near-infrared"</i>,
-	    <br /><a href="http://dx.doi.org/10.1117/12.2677785">SPIE 126801L</a>, Oct 2023.
+	    <br /><a href="https://doi.org/10.1117/12.2677785">SPIE 126801L</a>, Oct 2023.
 	    <br /><br /></li>
 	<li>Ahmed, Z., D'Amico, S., Hu, R., <strong>Damiano, M.</strong>,
 		<br /><i>"Exoplanet Detection from Starshade Images using Convolutional Neural Networks"</i>,
-		<br /><a href="http://dx.doi.org/10.1117/12.2676600">SPIE 1268028</a>, Oct 2023.
+		<br /><a href="https://doi.org/10.1117/12.2676600">SPIE 1268028</a>, Oct 2023.
 		<br /><br /></li>
 </ol>

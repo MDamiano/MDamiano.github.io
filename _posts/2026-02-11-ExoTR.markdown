@@ -12,7 +12,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Open-source Bayesian retrieval framework for exoplanetary transmission spectra."
 category: project
-author: Mario Damiano
+author: johndoe
 externalLink: false
 shareTwitter: false
 ---

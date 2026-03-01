@@ -1,17 +1,22 @@
+{% assign author = site.authors[page.author] %}
+{% if author == nil %}
+    {% assign author = site.authors.johndoe %}
+{% endif %}
+
 <section class="author{% if site.disqus == false %} no-disqus{% endif %}">
     <div class="toleft">
-        <img class="selfie" src="{% if site.authors[page.author].external-image == true %}{{ site.authors[page.author].picture }}{% else %}{{ site.url }}/{{ site.authors[page.author].picture }}{% endif %}" alt="{{ site.authors[page.author].name }}">
+        <img class="selfie" src="{% if author.external-image == true %}{{ author.picture }}{% else %}{{ site.url }}/{{ author.picture }}{% endif %}" alt="{{ author.name }}">
     </div>
 
     <div class="toright">
-        <h4 class="name">{{ site.authors[page.author].name }}</h4>
-        <p class="bio">{{ site.authors[page.author].bio }}</p>
+        <h4 class="name">{{ author.name }}</h4>
+        <p class="bio">{{ author.bio }}</p>
 
         <div class="share">
             <!-- Note: Only use three share links if your site width is set to large -->
             <!-- If site width is set to normal, you may choose any two share links -->
             {% if page.shareTwitter != false %}
-            <a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ site.authors[page.author].twitter }}">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ author.twitter }}">
                 <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg><span class="icon-twitter">Tweet</span>
             </a>
             {% endif %}
