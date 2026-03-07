@@ -123,4 +123,6 @@ compress_html:
         - development
         - stage
 
+include: ["favicon.ico"]
+
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
