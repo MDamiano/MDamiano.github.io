@@ -1,0 +1,25 @@
+---
+layout: null
+permalink: /damiano.bib
+---
+{% assign publications = site.data.publications -%}
+{%- for section in publications.sections -%}
+{%- for entry in section.entries %}
+@{{ entry.entry_type }}{ {{ entry.cite_key }},
+  {% if entry.author_literal %}author = {{ entry.author_literal }},{% else %}author = { {{ entry.authors_bibtex }} },{% endif %}
+  title = { {{ entry.title }} },
+  year = { {{ entry.year }} },
+  month = { {{ entry.month }} }{% if entry.journal %},
+  journal = { {{ entry.journal }} }{% endif %}{% if entry.booktitle %},
+  booktitle = { {{ entry.booktitle }} }{% endif %}{% if entry.volume %},
+  volume = { {{ entry.volume }} }{% endif %}{% if entry.number %},
+  number = { {{ entry.number }} }{% endif %}{% if entry.pages %},
+  pages = { {{ entry.pages }} }{% endif %}{% if entry.doi %},
+  doi = { {{ entry.doi }} }{% endif %}{% if entry.eprint %},
+  eprint = { {{ entry.eprint }} }{% endif %}{% if entry.archiveprefix %},
+  archivePrefix = { {{ entry.archiveprefix }} }{% endif %},
+  url = { {{ entry.link_url }} }
+}
+
+{%- endfor -%}
+{%- endfor -%}
