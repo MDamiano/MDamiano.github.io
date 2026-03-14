@@ -5,7 +5,7 @@
 
 <section class="author{% if site.disqus == false %} no-disqus{% endif %}">
     <div class="toleft">
-        <img class="selfie" src="{% if author.external-image == true %}{{ author.picture }}{% else %}{{ site.url }}/{{ author.picture }}{% endif %}" alt="{{ author.name }}">
+        <img class="selfie" src="{% if author.external-image == true %}{{ author.picture }}{% else %}{{ author.picture | relative_url }}{% endif %}" alt="{{ author.name }}">
     </div>
 
     <div class="toright">
@@ -13,10 +13,11 @@
         <p class="bio">{{ author.bio }}</p>
 
         <div class="share">
+            {% assign page_absolute_url = page.url | absolute_url %}
             <!-- Note: Only use three share links if your site width is set to large -->
             <!-- If site width is set to normal, you may choose any two share links -->
             {% if page.shareTwitter != false and author.twitter %}
-            <a class="twitter" href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }} - {{ page.title }} by @{{ author.twitter }}">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text={{ page_absolute_url }} - {{ page.title }} by @{{ author.twitter }}">
                 <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg><span class="icon-twitter">Tweet</span>
             </a>
             {% endif %}
@@ -25,15 +26,15 @@
                 <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg><span class="icon-facebook-rect">Share</span>
             </a> -->
 
-            <!-- <a class="google-plus" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank" rel="noopener noreferrer">
+            <!-- <a class="google-plus" href="https://plus.google.com/share?url={{ page_absolute_url }}" target="_blank" rel="noopener noreferrer">
                 <svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg><span class="icon-google-plus">Share</span>
             </a> -->
 
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}&amp;summary={{ page.description }}&amp;source={{ site.url }}" target="_blank" rel="noopener noreferrer">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ page_absolute_url }}&amp;title={{ page.title }}&amp;summary={{ page.description }}&amp;source={{ '/' | absolute_url }}" target="_blank" rel="noopener noreferrer">
                 <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg><span class="icon-linkedin">Share</span>
             </a>
 
-            <!-- <a class="reddit" href="https://reddit.com/submit?url={{ site.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank" rel="noopener noreferrer">
+            <!-- <a class="reddit" href="https://reddit.com/submit?url={{ page_absolute_url }}&amp;title={{ page.title }}" target="_blank" rel="noopener noreferrer">
                 <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg><span class="icon-reddit">Share</span>
             </a> -->
         </div>

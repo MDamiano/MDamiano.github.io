@@ -15,14 +15,14 @@ layout: compress
 
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
-    <meta property="og:image" content="{{ site.url }}/{{ site.picture }}">
+    <meta property="og:image" content="{{ site.picture | absolute_url }}">
     <meta property="og:type" content="profile">
 
     {% seo %}
     
     {% include favicon.html %}
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title | default: site.name }}" href="{{ site.url }}{{ "/feed.xml" }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | default: site.name }}" href="{{ '/feed.xml' | absolute_url }}" />
 
     <style>
     {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
