@@ -168,6 +168,18 @@ sections:
   - id: co-author
     title: Co-author
     entries:
+      - cite_key: Burr2026RedEdge
+        entry_type: misc
+        authors_html: "Burr, Z., <strong>Damiano, M.</strong>, Kofman, V., Hu, R., Villanueva, G. L."
+        authors_bibtex: "Burr, Z. and Damiano, M. and Kofman, V. and Hu, R. and Villanueva, G. L."
+        title: "Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces"
+        link_url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260320033B"
+        link_label: "arXiv, 2603.20033"
+        display_date: "Mar 2026"
+        year: "2026"
+        month: "mar"
+        archiveprefix: "arXiv"
+        eprint: "2603.20033"
       - cite_key: JuanolaParramon2026NUVCoronagraph
         entry_type: article
         authors_html: "Juanola-Parramon, R., Chen, P., <strong>Damiano, M.</strong>, Gersh-Range, J., Groff, T., Kasdin, J., Korzh, B., Krist, J., Mamajek, E., Mazin, B., Morgan, R., Potier, A., Pueyo, L., Quijada, M., Sadleir, J., Scowen, P., Stapelfeldt, K., Stark, C., Siegler, N., Young, A., Zimmerman, N."
