@@ -169,7 +169,7 @@ sections:
     title: Co-author
     entries:
       - cite_key: Burr2026RedEdge
-        entry_type: misc
+        entry_type: article
         authors_html: "Burr, Z., <strong>Damiano, M.</strong>, Kofman, V., Hu, R., Villanueva, G. L."
         authors_bibtex: "Burr, Z. and Damiano, M. and Kofman, V. and Hu, R. and Villanueva, G. L."
         title: "Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces"
@@ -178,6 +178,9 @@ sections:
         display_date: "Mar 2026"
         year: "2026"
         month: "mar"
+        journal: "arXiv e-prints"
+        pages: "arXiv:2603.20033"
+        doi: "10.48550/arXiv.2603.20033"
         archiveprefix: "arXiv"
         eprint: "2603.20033"
       - cite_key: JuanolaParramon2026NUVCoronagraph
