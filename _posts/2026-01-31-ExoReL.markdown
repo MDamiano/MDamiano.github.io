@@ -25,15 +25,144 @@ of clouds and gas mixing ratios.
 
 Project repository: [github.com/MDamiano/ExoReL](https://github.com/MDamiano/ExoReL).
 
-## Capabilities
-ExoReL is a Bayesian atmospheric retrieval framework built to infer atmospheric and planetary properties from reflected-light and thermal-emission spectra by explicitly coupling statistical inference to a physically detailed forward model. In the research statement, ExoReL is described as a mature, open-source tool written in Python and C that computes posterior probability distributions over parameters relevant to direct imaging—atmospheric composition, cloud properties, surface type, and pressure–temperature structure—across targets spanning Jupiter- to Earth-sized planets, with a layer-by-layer radiative-transfer and energy-balance treatment that tracks absorption, scattering, and emission through the atmosphere and, for rocky worlds, includes sensitivity to the surface.
+## Why reflected-light retrieval is difficult
 
-A distinctive “retrieval-first” strength of ExoReL is that it was designed to keep cloud physics and chemistry causally tied to gas profiles rather than treating clouds as purely free nuisance parameters. The original ExoReL formulation assumes vertically non-uniform mixing-ratio profiles for condensing species (e.g., H2O and NH3) and uses them to construct cloud densities so that cloud location and cloud “identity” remain consistent with the inferred atmospheric state, enabling inferences about gases below cloud decks that are not directly visible in the reflected spectrum.
+Direct imaging gives us the planet-star contrast ratio as a function of wavelength. That
+is an extraordinarily rich observable, but it is not a direct measurement of an
+atmospheric composition. The spectrum depends on the stellar flux, the planet radius,
+orbital phase, gravity, clouds, surface reflectance, gas absorption, Rayleigh scattering,
+and the vertical pressure levels from which photons escape. Many of those quantities can
+move the spectrum in similar ways. A retrieval code is useful only if it keeps those
+degeneracies explicit rather than hiding them.
 
-ExoReL is positioned as an analysis engine informing Habitable Worlds Observatory science requirements and observing strategies—these results collectively support a concrete message for your blog: ExoReL’s value is not only that it retrieves posteriors, but that it exposes where band-limited observations can become confidently wrong, and it quantifies which added wavelengths buy back correctness for realistic (non–modern-Earth) terrestrial scenarios.
+ExoReL does that by joining a radiative-transfer forward model to Bayesian sampling. For
+each proposed atmosphere, the code computes a reflected-light or thermal-emission
+spectrum, compares it with the data, and lets nested sampling map the posterior
+probability distribution of the physical parameters. The output is not a single best
+atmosphere. It is the family of atmospheres that are statistically allowed by the
+measurement.
+
+## A physically linked cloud model
+
+One of ExoReL's most important design choices is that cloud structure is not treated as
+an arbitrary opacity screen. In the original reflected-light implementation, condensing
+species such as H<sub>2</sub>O and NH<sub>3</sub> are allowed to have vertically
+non-uniform volume mixing ratio profiles. A cloud deck is then constructed from that
+profile using a cloud-top pressure, cloud extension, and condensation ratio. This makes
+the retrieved cloud chemically meaningful: a water cloud is linked to the retrieved
+water profile, an ammonia cloud to the ammonia profile, and so on.
+
+That coupling matters because reflected-light photons often do not probe the deep
+atmosphere directly. If a cloud truncates the observable column, a retrieval that treats
+the cloud independently of chemistry may fit the spectrum while losing the physical
+connection to the gas reservoir below it. ExoReL was built to keep that connection in
+the inference.
+
+<figure>
+  <img src="{{ '/assets/images/exorel/cloud-vmr-parameterization.png' | relative_url }}" alt="Schematic of the ExoReL molecular VMR and cloud parameterization">
+  <figcaption>Clouds are tied to the vertical abundance profile of the condensing molecule. The same retrieval parameters that describe the gas profile also determine where the cloud forms and how extended it is.</figcaption>
+</figure>
+
+## From spectra to posteriors
+
+The first diagnostic is the spectral fit. ExoReL compares the measured contrast ratio
+with the ensemble of forward models sampled by the retrieval. The best-fit model is only
+the center of the story; the shaded credible regions show how much model freedom remains
+after the data have been used.
+
+<figure>
+  <img src="{{ '/assets/images/exorel/nest-spectrum-sol0.png' | relative_url }}" alt="Example ExoReL retrieval spectrum showing data, best fit, and credible intervals">
+  <figcaption>Example retrieved spectrum for an Earth-like reflected-light case. The posterior predictive envelope shows the wavelength regions where the data strongly constrain the model and where degeneracies remain.</figcaption>
+</figure>
+
+The molecular contribution plot asks a different question: which opacity sources shape
+which parts of the spectrum? In reflected light, the visible and near-infrared bands are
+not interchangeable. O<sub>3</sub>, O<sub>2</sub>, H<sub>2</sub>O, CH<sub>4</sub>,
+CO<sub>2</sub>, clouds, and surface reflection all leave signatures in different
+wavelength regions. This is why ExoReL has been used not only to interpret spectra, but
+also to test observing strategies for Roman-like, HabEx-like, LUVOIR-like, and Habitable
+Worlds Observatory concepts.
+
+<figure>
+  <img src="{{ '/assets/images/exorel/nest-mol-contribution-sol0.png' | relative_url }}" alt="Molecular contribution plot for an ExoReL reflected-light retrieval">
+  <figcaption>Molecular and cloud contribution plot. ExoReL can identify which gases and continuum sources control each spectral feature, which is essential for interpreting detections and non-detections.</figcaption>
+</figure>
+
+## Atmospheric structure, not just abundances
+
+A retrieval of a directly imaged planet must recover more than a list of molecular
+abundances. The vertical location of the absorbing gas, the pressure of the scattering
+cloud, and the surface pressure all affect the observed contrast. ExoReL reports these
+quantities in pressure space, where the radiative-transfer problem is physically posed.
+
+<figure>
+  <img src="{{ '/assets/images/exorel/nest-chemistry-sol0.png' | relative_url }}" alt="Retrieved molecular abundance profiles as a function of pressure">
+  <figcaption>Retrieved vertical abundance profiles. The dashed H<sub>2</sub>O cloud boundaries and surface pressure show how the observable atmosphere is partitioned between gas, cloud, and surface.</figcaption>
+</figure>
+
+For terrestrial planets, ExoReL can also retrieve a wavelength-dependent surface albedo.
+This is important because a rocky planet's reflected spectrum is not produced by the
+atmosphere alone. The surface can brighten or dim broad wavelength intervals, alter the
+apparent depth of gas bands, and produce false confidence if it is forced into an
+over-simple form. A flexible surface model lets the retrieval separate atmospheric
+absorption from continuum reflectance as far as the data allow.
+
+<figure>
+  <img src="{{ '/assets/images/exorel/nest-surface-albedo-sol0.png' | relative_url }}" alt="Retrieved piecewise surface albedo model from ExoReL">
+  <figcaption>Example surface-albedo retrieval. ExoReL can fit a piecewise-reflective surface while simultaneously retrieving atmospheric composition and cloud properties.</figcaption>
+</figure>
+
+Planetary bulk properties enter the problem as well. Radius sets the planet-star contrast
+normalization, mass affects gravity and atmospheric scale height, and both influence the
+physical interpretation of the retrieved atmosphere. ExoReL's outputs can therefore be
+placed against mass-radius composition curves to check whether the inferred planet is
+consistent with a rocky, water-rich, or volatile-dominated interior.
+
+<figure>
+  <img src="{{ '/assets/images/exorel/nest-mass-radius-sol0.png' | relative_url }}" alt="Retrieved planet mass and radius compared with composition curves">
+  <figcaption>Retrieved mass-radius context for an Earth-like case. Atmospheric retrieval and planetary characterization are coupled because gravity and radius affect the reflected-light spectrum.</figcaption>
+</figure>
+
+## Reading the posterior
+
+The posterior distributions are the heart of the retrieval. They show what the data know,
+what the priors still control, and which parameters are correlated. Some quantities may
+be sharply constrained, such as surface-albedo breaks or strong molecular features.
+Others may remain bounded only from one side. That information is scientifically useful:
+it tells us whether a spectrum supports a robust detection, a meaningful upper limit, or
+a family of degenerate atmospheric scenarios.
+
+<figure>
+  <img src="{{ '/assets/images/exorel/earth-nest-1d-posteriors.png' | relative_url }}" alt="One-dimensional posterior distributions from an ExoReL nested-sampling retrieval">
+  <figcaption>One-dimensional marginal posteriors from a nested-sampling run. Red vertical lines mark the input or reference values, while the posterior shapes show the actual information content of the spectrum.</figcaption>
+</figure>
+
+This is the central reason ExoReL is useful for mission design. In reflected-light
+spectroscopy, adding a second wavelength band, observing a second orbital phase, or
+extending into the near-UV can change the answer qualitatively. Previous ExoReL studies
+showed that limited wavelength coverage can admit plausible but wrong cloud-gas
+solutions, while additional bands or phases can break those degeneracies. For terrestrial
+planets, the same framework has been used to ask which combinations of O<sub>2</sub>,
+O<sub>3</sub>, H<sub>2</sub>O, CO<sub>2</sub>, CH<sub>4</sub>, CO, N<sub>2</sub>O, cloud
+structure, mass, radius, and surface reflectance are recoverable from future direct
+imaging spectra.
+
+## What the code provides
+
+The public ExoReL repository includes tools to generate reflected-light and
+thermal-emission spectra, create synthetic datasets with noise and error bars, run
+MultiNest-based Bayesian retrievals, and automatically produce the standard diagnostic
+plots shown above. The code is therefore useful both as a retrieval engine and as a
+simulation laboratory: it can analyze a measured spectrum, test whether a planned
+observation can recover a target molecule, and expose the wavelength ranges where the
+physics is underconstrained.
 
 ## References
-1. Damiano, M., Hu, R. (2022). "Reflected spectroscopy of small exoplanets II:
-   characterization of terrestrial exoplanets." AJ, 163, 299.
-2. Damiano, M., Hu, R. (2020). "ExoReL^R: a Bayesian inverse retrieval framework
-   for exoplanetary reflected light spectra." AJ, 159, 175.
+
+1. Damiano, M., Hu, R. (2020). "[ExoReL<sup>R</sup>: a Bayesian inverse retrieval framework for exoplanetary reflected light spectra](https://doi.org/10.3847/1538-3881/ab79a5)." AJ, 159, 175.
+2. Damiano, M., Hu, R., Hildebrandt, S. R. (2020). "[Multi-orbital-phase and multi-band characterization of exoplanetary atmospheres with reflected light spectra](https://iopscience.iop.org/article/10.3847/1538-3881/abb76a/)." AJ, 160, 206.
+3. Damiano, M., Hu, R. (2021). "[Reflected spectroscopy of small exoplanets I: determining the atmospheric composition of sub-Neptunes planets](https://iopscience.iop.org/article/10.3847/1538-3881/ac224d)." AJ, 162, 200.
+4. Damiano, M., Hu, R. (2022). "[Reflected spectroscopy of small exoplanets II: characterization of terrestrial exoplanets](https://iopscience.iop.org/article/10.3847/1538-3881/ac6b97)." AJ, 163, 299.
+5. Damiano, M., Hu, R., Mennesson, B. (2023). "[Reflected spectroscopy of small exoplanets III: probing the UV band to measure biosignature gasses](https://iopscience.iop.org/article/10.3847/1538-3881/acefd3)." AJ, 166, 157.
+6. Damiano, M., Burr, Z., Hu, R., Burt, J., Kataria, T. (2025). "[Effects of planetary mass uncertainties on the interpretation of the reflectance spectra of Earth-like exoplanets](https://iopscience.iop.org/article/10.3847/1538-3881/ada610)." AJ, 169, 97.
+7. Burr, Z., Damiano, M., Kofman, V., Hu, R., Villanueva, G. L. (2026). "[Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces](https://doi.org/10.3847/1538-4357/ae563d)." ApJ, 1001, 222.

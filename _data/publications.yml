@@ -1,5 +1,5 @@
 stats:
-  refereed_publications: 28
+  refereed_publications: 29
   first_author_papers: 11
   h_index: 22
 
@@ -173,14 +173,16 @@ sections:
         authors_html: "Burr, Z., <strong>Damiano, M.</strong>, Kofman, V., Hu, R., Villanueva, G. L."
         authors_bibtex: "Burr, Z. and Damiano, M. and Kofman, V. and Hu, R. and Villanueva, G. L."
         title: "Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces"
-        link_url: "https://arxiv.org/abs/2603.20033"
-        link_label: "arXiv, 2603.20033"
-        display_date: "Mar 2026"
+        link_url: "https://doi.org/10.3847/1538-4357/ae563d"
+        link_label: "ApJ, 1001, 222"
+        display_date: "Apr 2026"
         year: "2026"
-        month: "mar"
-        journal: "arXiv e-prints"
-        pages: "arXiv:2603.20033"
-        doi: "10.48550/arXiv.2603.20033"
+        month: "apr"
+        journal: "ApJ"
+        volume: "1001"
+        number: "2"
+        pages: "222"
+        doi: "10.3847/1538-4357/ae563d"
         archiveprefix: "arXiv"
         eprint: "2603.20033"
       - cite_key: JuanolaParramon2026NUVCoronagraph
