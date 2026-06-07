@@ -1,5 +1,5 @@
 stats:
-  refereed_publications: 29
+  refereed_publications: 30
   first_author_papers: 11
   h_index: 22
 
@@ -168,6 +168,23 @@ sections:
   - id: co-author
     title: Co-author
     entries:
+      - cite_key: BelloArufe2026TOI199b
+        entry_type: article
+        authors_html: "Bello-Arufe, A., Hu, R., Zilinskas, M., Yang, J., Tokadjian, A., Welbanks, L., Fu, G., Greklek-McKeon, M., <strong>Damiano, M.</strong>, Gomez Barrientos, J., Knutson, H.A., Sing, D.K., Zhang, X."
+        authors_bibtex: "Bello-Arufe, A. and Hu, R. and Zilinskas, M. and Yang, J. and Tokadjian, A. and Welbanks, L. and Fu, G. and Greklek-McKeon, M. and Damiano, M. and Gomez Barrientos, J. and Knutson, H. A. and Sing, D. K. and Zhang, X."
+        title: "Methane on the Temperate Exo-Saturn TOI-199 b"
+        link_url: "https://doi.org/10.3847/1538-3881/ae4fba"
+        link_label: "AJ, 171, 354"
+        display_date: "Jun 2026"
+        year: "2026"
+        month: "jun"
+        journal: "AJ"
+        volume: "171"
+        number: "6"
+        pages: "354"
+        doi: "10.3847/1538-3881/ae4fba"
+        archiveprefix: "arXiv"
+        eprint: "2511.15835"
       - cite_key: Burr2026RedEdge
         entry_type: article
         authors_html: "Burr, Z., <strong>Damiano, M.</strong>, Kofman, V., Hu, R., Villanueva, G. L."
@@ -200,18 +217,6 @@ sections:
         number: "1"
         pages: "015005"
         doi: "10.1117/1.JATIS.12.1.015005"
-      - cite_key: BelloArufe2025TOI199b
-        entry_type: misc
-        authors_html: "Bello-Arufe, A., Hu, R., Zilinskas, M., Yang, J., Tokadjian, A., Welbanks, L., Fu, G., Greklek-McKeon, M., <strong>Damiano, M.</strong>, Gomez Barrientos, J., Knutson, H., A. Sing, D.K., Zhang, X."
-        authors_bibtex: "Bello-Arufe, A. and Hu, R. and Zilinskas, M. and Yang, J. and Tokadjian, A. and Welbanks, L. and Fu, G. and Greklek-McKeon, M. and Damiano, M. and Gomez Barrientos, J. and Knutson, H. and Sing, D. K. A. and Zhang, X."
-        title: "Methane on the temperate exo-Saturn TOI-199b"
-        link_url: "https://arxiv.org/abs/2511.15835"
-        link_label: "arXiv, 2511.15835"
-        display_date: "Nov 2025"
-        year: "2025"
-        month: "nov"
-        archiveprefix: "arXiv"
-        eprint: "2511.15835"
       - cite_key: Oza2025VolcanicSatellites
         entry_type: article
         authors_html: "Oza, A.V., Gebek, A., Meyer zu Westram, M., Tokadjian, A., Piro, A.L., Hu, R., Unni, A., Chari, R., Bello-Arufe, A., Schmidt, C.A., Louca, A.J., Miguel, Y., Estrela, R., Yang, J., <strong>Damiano, M.</strong>, Hasegawa, Y., Welbanks, L., Powell, D., Garg, R., Gupta, P., Yung, Y.L., Lopes, R.M.C."
