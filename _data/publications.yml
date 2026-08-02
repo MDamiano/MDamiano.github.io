@@ -168,6 +168,21 @@ sections:
   - id: co-author
     title: Co-author
     entries:
+      - cite_key: Foote2026PhaseFunctions
+        entry_type: article
+        authors_html: "Foote, S., Robinson, T.D., Morgan, R., Savransky, D., <strong>Damiano, M.</strong>, Tokadjian, A."
+        authors_bibtex: "Foote, S. and Robinson, T. D. and Morgan, R. and Savransky, D. and Damiano, M. and Tokadjian, A."
+        title: "The Impact of Planetary Phase Functions on Exo-Earth Detectability with EXOSIMS"
+        link_url: "https://doi.org/10.48550/arXiv.2607.08701"
+        link_label: "arXiv, 2607.08701"
+        display_date: "Jul 2026"
+        year: "2026"
+        month: "jul"
+        journal: "arXiv e-prints"
+        pages: "arXiv:2607.08701"
+        doi: "10.48550/arXiv.2607.08701"
+        archiveprefix: "arXiv"
+        eprint: "2607.08701"
       - cite_key: BelloArufe2026TOI199b
         entry_type: article
         authors_html: "Bello-Arufe, A., Hu, R., Zilinskas, M., Yang, J., Tokadjian, A., Welbanks, L., Fu, G., Greklek-McKeon, M., <strong>Damiano, M.</strong>, Gomez Barrientos, J., Knutson, H.A., Sing, D.K., Zhang, X."
