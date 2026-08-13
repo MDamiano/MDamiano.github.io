@@ -182,6 +182,21 @@ sections:
         pages: "arXiv:2608.11294"
         archiveprefix: "arXiv"
         eprint: "2608.11294"
+      - cite_key: Gapp2026SPACEII
+        entry_type: article
+        authors_html: "Gapp, C., Acuña-Aguirre, L., Ashtari, R., <strong>Damiano, M.</strong>, Evans-Soma, T.M., Wilson, D.J., France, K., Kreidberg, L., Deming, D., Tian, Q.C., Redfield, S., Crossfield, I.J.M., Kahle, K.A., Daylan, T., Heng, K., Bitsch, B., Jenkins, J.S., Stassun, K.G., García Muñoz, A., Carone, L."
+        authors_bibtex: "Gapp, C. and Acuña-Aguirre, L. and Ashtari, R. and Damiano, M. and Evans-Soma, T. M. and Wilson, D. J. and France, K. and Kreidberg, L. and Deming, D. and Tian, Q. C. and Redfield, S. and Crossfield, I. J. M. and Kahle, K. A. and Daylan, T. and Heng, K. and Bitsch, B. and Jenkins, J. S. and Stassun, K. G. and García Muñoz, A. and Carone, L."
+        title: "The SPACE Program II: No discernible spectral features in the transmission spectrum of the sub-Neptune HD 191939 b observed with HST/WFC3"
+        link_url: "https://doi.org/10.48550/arXiv.2608.05962"
+        link_label: "arXiv, 2608.05962"
+        display_date: "Aug 2026"
+        year: "2026"
+        month: "aug"
+        journal: "arXiv e-prints"
+        pages: "arXiv:2608.05962"
+        doi: "10.48550/arXiv.2608.05962"
+        archiveprefix: "arXiv"
+        eprint: "2608.05962"
       - cite_key: Foote2026PhaseFunctions
         entry_type: article
         authors_html: "Foote, S., Robinson, T.D., Morgan, R., Savransky, D., <strong>Damiano, M.</strong>, Tokadjian, A."
