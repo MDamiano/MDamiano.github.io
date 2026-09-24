@@ -489,6 +489,18 @@ sections:
   - id: conference-proceedings-and-white-papers
     title: Conference Proceedings and White Papers
     entries:
+      - cite_key: Soliman2026HybridGroundSpace
+        entry_type: inproceedings
+        authors_html: "Soliman, A., Shaklan, S., Mather, J., Peretz, E., Gregg, C., Arya, M., <strong>Damiano, M.</strong>, Kasper, M., Nousiainen, J., Taaki, J., Christiansen, J.L., Chandra, A., Ahmed, Z., Bhundiya, H.G., and others"
+        authors_bibtex: "Soliman, A. and Shaklan, S. and Mather, J. and Peretz, E. and Gregg, C. and Arya, M. and Damiano, M. and Kasper, M. and Nousiainen, J. and Taaki, J. and Christiansen, J. L. and Chandra, A. and Ahmed, Z. and Bhundiya, H. G. and others"
+        title: "Towards a hybrid ground-space exoplanet observatory: summary of Caltech Keck Institute for Space Studies (KISS) report"
+        link_url: "https://doi.org/10.1117/12.3105590"
+        link_label: "SPIE 13699"
+        display_date: "Aug 2026"
+        year: "2026"
+        month: "aug"
+        booktitle: "Proceedings of SPIE"
+        doi: "10.1117/12.3105590"
       - cite_key: Min2025CoolGaseousPlanets
         entry_type: misc
         authors_html: "Min, M., Barstow, J., Mayorga, L.C., Wakeford, H., Wang, J., Hu, R., Biller, B., Caballero, J.A., Carone, L., Casewell, S., Chubb, K.L., <strong>Damiano, M.</strong>, Gandhi, S., Garcia-Munoz, A., Helling, C., Keller, F., Lowson, N., Nasedkin, E., MacDonald, R., Ruffio, J.B., Shkolnik, E., Stark, C.C."
