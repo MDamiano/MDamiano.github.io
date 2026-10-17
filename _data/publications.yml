@@ -168,6 +168,37 @@ sections:
   - id: co-author
     title: Co-author
     entries:
+      - cite_key: Young2026UVCoronagraph
+        entry_type: article
+        authors_html: "Young, A.V., Arney, G., Domagal-Goldman, S., Robinson, T.D., Juanola-Parramon, R., Stark, C., Hu, R., Tokadjian, A., <strong>Damiano, M.</strong>"
+        authors_bibtex: "Young, A. V. and Arney, G. and Domagal-Goldman, S. and Robinson, T. D. and Juanola-Parramon, R. and Stark, C. and Hu, R. and Tokadjian, A. and Damiano, M."
+        title: "Science-Driven Performance Requirements for UV Coronagraph Design: Implications for O3 Detection in Earth-like Atmospheres"
+        title_html: "Science-Driven Performance Requirements for UV Coronagraph Design: Implications for O<sub>3</sub> Detection in Earth-like Atmospheres"
+        link_url: "https://arxiv.org/abs/2610.19081"
+        link_label: "arXiv, 2610.19081"
+        display_date: "Oct 2026"
+        year: "2026"
+        month: "oct"
+        journal: "arXiv e-prints"
+        pages: "arXiv:2610.19081"
+        doi: "10.48550/arXiv.2610.19081"
+        archiveprefix: "arXiv"
+        eprint: "2610.19081"
+      - cite_key: Ahmed2026UVStarshade
+        entry_type: article
+        authors_html: "Ahmed, Z., Shaklan, S., <strong>Damiano, M.</strong>, Tokadjian, A., Schwieterman, E.W., D'Amico, S."
+        authors_bibtex: "Ahmed, Z. and Shaklan, S. and Damiano, M. and Tokadjian, A. and Schwieterman, E. W. and D'Amico, S."
+        title: "Ultraviolet Reflected-Light Spectroscopy of Modern Earth Analogs with Starshade Observations"
+        link_url: "https://arxiv.org/abs/2610.17377"
+        link_label: "arXiv, 2610.17377"
+        display_date: "Oct 2026"
+        year: "2026"
+        month: "oct"
+        journal: "arXiv e-prints"
+        pages: "arXiv:2610.17377"
+        doi: "10.48550/arXiv.2610.17377"
+        archiveprefix: "arXiv"
+        eprint: "2610.17377"
       - cite_key: Gapp2026SPACEII
         entry_type: article
         authors_html: "Gapp, C., Acuña-Aguirre, L., Ashtari, R., <strong>Damiano, M.</strong>, Evans-Soma, T.M., Wilson, D.J., France, K., Kreidberg, L., Deming, D., Tian, Q.C., Redfield, S., Crossfield, I.J.M., Kahle, K.A., Daylan, T., Heng, K., Bitsch, B., Jenkins, J.S., Stassun, K.G., García Muñoz, A., Carone, L."
