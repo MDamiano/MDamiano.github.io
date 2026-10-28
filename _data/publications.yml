@@ -1,12 +1,27 @@
 stats:
-  refereed_publications: 31
-  first_author_papers: 11
+  refereed_publications: 32
+  first_author_papers: 12
   h_index: 22
 
 sections:
   - id: first-author-peer-reviewed
     title: First author peer-reviewed papers
     entries:
+      - cite_key: Damiano2026StarshadePropulsion
+        entry_type: article
+        authors_html: "<strong>Damiano, M.</strong>, Morgan, R., Turmon, M., Savransky, D., Tokadjian, A."
+        authors_bibtex: "Damiano, M. and Morgan, R. and Turmon, M. and Savransky, D. and Tokadjian, A."
+        title: "Propulsion Systems for a Starshade Rendezvous Mission with the Habitable World Observatory"
+        link_url: "https://arxiv.org/abs/2610.36200"
+        link_label: "arXiv, 2610.36200 (accepted by JATIS)"
+        display_date: "Oct 2026"
+        year: "2026"
+        month: "oct"
+        journal: "arXiv e-prints"
+        pages: "arXiv:2610.36200"
+        doi: "10.48550/arXiv.2610.36200"
+        archiveprefix: "arXiv"
+        eprint: "2610.36200"
       - cite_key: Damiano2025MassUncertainties
         entry_type: article
         authors_html: "<strong>Damiano, M.</strong>, Burr, Z., Hu, R., Burt, J., Kataria, T."
