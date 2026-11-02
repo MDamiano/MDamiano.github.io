@@ -1,5 +1,5 @@
 stats:
-  refereed_publications: 32
+  refereed_publications: 33
   first_author_papers: 12
   h_index: 22
 
@@ -183,6 +183,22 @@ sections:
   - id: co-author
     title: Co-author
     entries:
+      - cite_key: Burri2026DominantAtmospheres
+        entry_type: article
+        authors_html: "Burri, N., <strong>Damiano, M.</strong>, Hu, R."
+        authors_bibtex: "Burri, N. and Damiano, M. and Hu, R."
+        title: "Distinguishing N2-Dominated from O2-Dominated Atmospheres on Terrestrial Exoplanets with Reflected-Light Spectroscopy"
+        title_html: "Distinguishing N<sub>2</sub>-Dominated from O<sub>2</sub>-Dominated Atmospheres on Terrestrial Exoplanets with Reflected-Light Spectroscopy"
+        link_url: "https://arxiv.org/abs/2610.42035"
+        link_label: "arXiv, 2610.42035 (accepted by AJ)"
+        display_date: "Oct 2026"
+        year: "2026"
+        month: "oct"
+        journal: "arXiv e-prints"
+        pages: "arXiv:2610.42035"
+        doi: "10.48550/arXiv.2610.42035"
+        archiveprefix: "arXiv"
+        eprint: "2610.42035"
       - cite_key: Young2026UVCoronagraph
         entry_type: article
         authors_html: "Young, A.V., Arney, G., Domagal-Goldman, S., Robinson, T.D., Juanola-Parramon, R., Stark, C., Hu, R., Tokadjian, A., <strong>Damiano, M.</strong>"
