@@ -576,29 +576,18 @@ sections:
   - id: conference-proceedings-and-white-papers
     title: Conference Proceedings and White Papers
     entries:
-      - cite_key: Soliman2026HybridObservatoriesReport
-        entry_type: techreport
-        authors_html: "Soliman, A., Shaklan, S., Mather, J., Ahmed, Z., Arya, M., Bhundiya, H., Chandra, A., Christiansen, J., <strong>Damiano, M.</strong>, and others"
-        authors_bibtex: "Soliman, A. and Shaklan, S. and Mather, J. and Ahmed, Z. and Arya, M. and Bhundiya, H. and Chandra, A. and Christiansen, J. and Damiano, M. and Dekany, R. and García-Mejía, J. and Gregg, C. and Kasper, M. and Lopez, J. and Miller, D. and Morgan, R. and Nousiainen, J. and Pellegrino, S. and Peretz, E. and Plavchan, P. and Sanchez, W. and Sanghi, A. and Sauder, J. and Szentgyorgyi, A. and Taaki, J. and Turner, R. and Young, A. and Zelakiewicz, A."
-        title: "Hybrid Space-Ground Observatories: Revolutionizing the Search for Earth-like Exoplanets"
-        link_url: "https://doi.org/10.26206/vr511-kfa48"
-        link_label: "KISS Technical Report, Caltech"
-        display_date: "Nov 2026"
-        year: "2026"
-        month: "nov"
-        institution: "W. M. Keck Institute of Space Studies (KISS), California Institute of Technology"
-        doi: "10.26206/vr511-kfa48"
       - cite_key: Soliman2026HybridGroundSpace
         entry_type: inproceedings
-        authors_html: "Soliman, A., Shaklan, S., Mather, J., Peretz, E., Gregg, C., Arya, M., <strong>Damiano, M.</strong>, Kasper, M., Nousiainen, J., Taaki, J., Christiansen, J.L., Chandra, A., Ahmed, Z., Bhundiya, H.G., and others"
-        authors_bibtex: "Soliman, A. and Shaklan, S. and Mather, J. and Peretz, E. and Gregg, C. and Arya, M. and Damiano, M. and Kasper, M. and Nousiainen, J. and Taaki, J. and Christiansen, J. L. and Chandra, A. and Ahmed, Z. and Bhundiya, H. G. and others"
-        title: "Towards a hybrid ground-space exoplanet observatory: summary of Caltech Keck Institute for Space Studies (KISS) report"
+        authors_html: "Soliman, A., Shaklan, S., Mather, J., Peretz, E., Gregg, C., Arya, M., <strong>Damiano, M.</strong>, Kasper, M., Nousiainen, J., Taaki, J., Christiansen, J.L., Chandra, A., Ahmed, Z., Bhundiya, H., and others"
+        authors_bibtex: "Soliman, A. and Shaklan, S. and Mather, J. and Peretz, E. and Gregg, C. and Arya, M. and Damiano, M. and Kasper, M. and Nousiainen, J. and Taaki, J. and Christiansen, J. L. and Chandra, A. and Ahmed, Z. and Bhundiya, H. and Dekany, R. and Garcia-Mejia, J. and Lopez, J. and Miller, D. and Morgan, R. and Pellegrino, S. and Plavchan, P. and Sanchez, W. and Sanghi, A. and Sauder, J. and Szentgyorgyi, A. and Turner, R. and Young, A. and Zelakiewicz, A. and Knutson, H. and Jeon, S. and Savransky, D. and O'Meara, J. and Brown, S. and Lovis, C. and Mayor, M. and Silver, M. and Arenberg, J."
+        title: "Toward a hybrid ground-space exoplanet observatory: summary of Caltech Keck Institute for Space Studies (KISS) report"
         link_url: "https://doi.org/10.1117/12.3105590"
-        link_label: "SPIE 13699"
+        link_label: "SPIE 14145"
         display_date: "Aug 2026"
         year: "2026"
         month: "aug"
-        booktitle: "Proceedings of SPIE"
+        booktitle: "Space Telescopes and Instrumentation 2026: Optical, Infrared, and Millimeter Wave"
+        volume: "14145"
         doi: "10.1117/12.3105590"
       - cite_key: Min2025CoolGaseousPlanets
         entry_type: misc
