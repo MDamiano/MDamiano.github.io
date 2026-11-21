@@ -28,7 +28,7 @@ layout: page
   {% for entry in section.entries %}
     <li>{{ entry.authors_html }},
         <br /><i>&ldquo;{{ entry.title_html | default: entry.title }}&rdquo;</i>,
-        <br /><a href="{{ entry.link_url }}">{{ entry.link_label }}</a>, {{ entry.display_date }}.
+        <br /><a href="{{ entry.link_url }}">{{ entry.link_label }}</a>{% for link in entry.additional_links %} &middot; <a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}, {{ entry.display_date }}.
         <br /><br /></li>
   {% endfor %}
 </ol>
